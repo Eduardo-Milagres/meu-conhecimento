@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Conhecimento Técnico/Aços/"}
+{"dg-publish":true,"permalink":"/Conhecimento Técnico/Aços/","tags":["gardenEntry"]}
 ---
 
 - Aço é a denominação genérica para ligas de ferro-carbono com teores de carbono de 0,008 a 2,0%, contendo outros elementos residuais do processo de produção e podendo conter outros elementos de liga propositalmente adicionados
