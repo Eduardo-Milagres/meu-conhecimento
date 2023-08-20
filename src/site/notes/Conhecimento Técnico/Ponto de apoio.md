@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Conhecimento Técnico/Ponto de apoio/"}
+{"dg-publish":true,"permalink":"/Conhecimento Técnico/Ponto de apoio/","created":"","updated":""}
 ---
 
 
