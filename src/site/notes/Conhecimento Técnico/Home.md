@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Conhecimento Técnico/Home/","tags":["gardenEntry"],"created":"","updated":""}
+{"dg-publish":true,"permalink":"/Conhecimento Técnico/Home/","hide":true,"tags":["gardenEntry"],"created":"","updated":""}
 ---
 
 
