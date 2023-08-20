@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Conhecimento Técnico/Fadiga/"}
+{"dg-publish":true,"permalink":"/Conhecimento Técnico/Fadiga/","created":"","updated":""}
 ---
 
 
@@ -104,8 +104,21 @@ Sendo um acoplamento forjado para a peça, calcule o fator de seguraça ($F_s$) 
 > $K_c$
 
 
-[[Fadiga - Exercício 1\|Fadiga - Exercício 1]]
-![[Fadiga - Exercício 1\|Fadiga - Exercício 1]]
+[[Imagens/Excalidraw/Fadiga - Exercício 1\|Fadiga - Exercício 1]]
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+
+# Text Elements
+
+
+</div></div>
+
 
 $$d_1=d_2$$
 $$R_1 = R_2 = \frac{F}{2}*d_1$$
