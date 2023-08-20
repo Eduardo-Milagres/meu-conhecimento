@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Conhecimento Técnico/Propriedades Tecnológicas/"}
+{"dg-publish":true,"permalink":"/Conhecimento Técnico/Propriedades Tecnológicas/","created":"","updated":""}
 ---
 
 
