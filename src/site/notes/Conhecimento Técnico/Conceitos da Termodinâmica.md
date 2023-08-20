@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Conhecimento Técnico/Conceitos da Termodinâmica/"}
+{"dg-publish":true,"permalink":"/Conhecimento Técnico/Conceitos da Termodinâmica/","created":"","updated":""}
 ---
 
 ### Calor
