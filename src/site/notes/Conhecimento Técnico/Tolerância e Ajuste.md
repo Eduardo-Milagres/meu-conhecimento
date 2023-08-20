@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Conhecimento Técnico/Tolerância e Ajuste/"}
+{"dg-publish":true,"permalink":"/Conhecimento Técnico/Tolerância e Ajuste/","created":"","updated":""}
 ---
 
 
