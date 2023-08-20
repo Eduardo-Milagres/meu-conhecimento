@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Conhecimento Técnico/Ferro Fundido/"}
+{"dg-publish":true,"permalink":"/Conhecimento Técnico/Ferro Fundido/","created":"","updated":""}
 ---
 
 
