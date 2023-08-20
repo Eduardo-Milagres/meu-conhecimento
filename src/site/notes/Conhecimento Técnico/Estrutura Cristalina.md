@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Conhecimento Técnico/Estrutura Cristalina/"}
+{"dg-publish":true,"permalink":"/Conhecimento Técnico/Estrutura Cristalina/","created":"","updated":""}
 ---
 
 
