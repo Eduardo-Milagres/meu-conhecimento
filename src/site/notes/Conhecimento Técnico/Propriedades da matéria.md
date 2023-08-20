@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Conhecimento Técnico/Propriedades da matéria/"}
+{"dg-publish":true,"permalink":"/Conhecimento Técnico/Propriedades da matéria/","created":"","updated":""}
 ---
 
 ### Volume ($V$)
