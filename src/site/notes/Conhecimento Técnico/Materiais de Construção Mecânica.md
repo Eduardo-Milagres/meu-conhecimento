@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Conhecimento Técnico/Materiais de Construção Mecânica/"}
+{"dg-publish":true,"permalink":"/Conhecimento Técnico/Materiais de Construção Mecânica/","created":"","updated":""}
 ---
 
 
