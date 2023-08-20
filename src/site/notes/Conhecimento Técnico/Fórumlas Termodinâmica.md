@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Conhecimento Técnico/Fórumlas Termodinâmica/"}
+{"dg-publish":true,"permalink":"/Conhecimento Técnico/Fórumlas Termodinâmica/","created":"","updated":""}
 ---
 
 
