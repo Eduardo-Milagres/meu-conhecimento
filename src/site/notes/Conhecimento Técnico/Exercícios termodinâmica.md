@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Conhecimento Técnico/Exercícios termodinâmica/"}
+{"dg-publish":true,"permalink":"/Conhecimento Técnico/Exercícios termodinâmica/","created":"","updated":""}
 ---
 
 
