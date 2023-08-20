@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/Conhecimento Técnico/Motor/"}
+{"dg-publish":true,"permalink":"/Conhecimento Técnico/Motor/","created":"","updated":""}
 ---
 
-# Notas
-- Gasolina aditivada ajuda na limpeza do mortor
 
+- Máquina que converte qualquer tipo de energia em trabalho mecânico
 ## Fluído ativo
 - Mistura ar combustível
 
@@ -13,7 +12,7 @@
 - A combustão é processada externamente ao FA
 - Apenas o veículo de de energia se transforma em trabalho
 
-## [[Combustão Interna\|Combustão Interna]]
+## [[Conhecimento Técnico/Motores de Combustão Interna (MCI)\|Combustão Interna]]
 - FA participa diretamente da combustão
 
 ### Moteres Alternativos
@@ -26,3 +25,6 @@
 ## Motor de Enquel
 
 Motores rotativos
+
+# Notas
+- Gasolina aditivada ajuda na limpeza do motor
