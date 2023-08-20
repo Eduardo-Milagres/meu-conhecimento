@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Conhecimento Técnico/Cargas/"}
+{"dg-publish":true,"permalink":"/Conhecimento Técnico/Cargas/","created":"","updated":""}
 ---
 
 
