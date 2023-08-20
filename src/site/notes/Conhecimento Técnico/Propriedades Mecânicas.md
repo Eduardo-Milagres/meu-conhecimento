@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Conhecimento Técnico/Propriedades Mecânicas/"}
+{"dg-publish":true,"permalink":"/Conhecimento Técnico/Propriedades Mecânicas/","created":"","updated":""}
 ---
 
 
