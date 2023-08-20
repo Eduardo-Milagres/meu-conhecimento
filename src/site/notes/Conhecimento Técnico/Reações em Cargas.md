@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Conhecimento Técnico/Reações em Cargas/"}
+{"dg-publish":true,"permalink":"/Conhecimento Técnico/Reações em Cargas/","created":"","updated":""}
 ---
 
 
