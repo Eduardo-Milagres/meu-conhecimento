@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Conhecimento Técnico/Processos de Fabricação/"}
+{"dg-publish":true,"permalink":"/Conhecimento Técnico/Processos de Fabricação/","created":"","updated":""}
 ---
 
 
