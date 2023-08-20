@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Conhecimento Técnico/Leis da Termodinâmica/"}
+{"dg-publish":true,"permalink":"/Conhecimento Técnico/Leis da Termodinâmica/","created":"","updated":""}
 ---
 
 
