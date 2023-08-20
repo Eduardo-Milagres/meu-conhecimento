@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Conhecimento Técnico/Home/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/Conhecimento Técnico/Home/","tags":["gardenEntry"],"created":"","updated":""}
 ---
 
 
@@ -9,6 +9,7 @@
 - [[Conhecimento Técnico/Conceitos da Termodinâmica\|Conceitos da Termodinâmica]]
 - [[Conhecimento Técnico/Correias em V\|Correias em V]]
 - [[Conhecimento Técnico/Estrutura Cristalina\|Estrutura Cristalina]]
+- [[Conhecimento Técnico/Exercícios - Motores de Combustão Interna (MCI)\|Exercícios - Motores de Combustão Interna (MCI)]]
 - [[Conhecimento Técnico/Exercícios termodinâmica\|Exercícios termodinâmica]]
 - [[Conhecimento Técnico/Fadiga\|Fadiga]]
 - [[Conhecimento Técnico/Ferro Fundido\|Ferro Fundido]]
@@ -16,6 +17,7 @@
 - [[Conhecimento Técnico/Leis da Termodinâmica\|Leis da Termodinâmica]]
 - [[Conhecimento Técnico/Materiais de Construção Mecânica\|Materiais de Construção Mecânica]]
 - [[Conhecimento Técnico/Motor\|Motor]]
+- [[Conhecimento Técnico/Motores de Combustão Interna (MCI)\|Motores de Combustão Interna (MCI)]]
 - [[Conhecimento Técnico/Parafusos\|Parafusos]]
 - [[Conhecimento Técnico/Ponto de apoio\|Ponto de apoio]]
 - [[Conhecimento Técnico/Processos de Fabricação\|Processos de Fabricação]]
