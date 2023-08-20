@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Conhecimento Técnico/Processos dos gases ideais/"}
+{"dg-publish":true,"permalink":"/Conhecimento Técnico/Processos dos gases ideais/","created":"","updated":""}
 ---
 
 
