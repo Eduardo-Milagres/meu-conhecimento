@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Conhecimento Técnico/Correias em V/"}
+{"dg-publish":true,"permalink":"/Conhecimento Técnico/Correias em V/","created":"","updated":""}
 ---
 
 Ref: https://drive.google.com/file/d/1UyW_G1IdQNc3QXvLOOvKruXeKcfT30kV/view?usp=share_link
