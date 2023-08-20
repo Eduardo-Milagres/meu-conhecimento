@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Conhecimento Técnico/Parafusos/"}
+{"dg-publish":true,"permalink":"/Conhecimento Técnico/Parafusos/","created":"","updated":""}
 ---
 
 
