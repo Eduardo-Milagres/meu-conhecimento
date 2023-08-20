@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Conhecimento Técnico/Usinagem/"}
+{"dg-publish":true,"permalink":"/Conhecimento Técnico/Usinagem/","created":"","updated":""}
 ---
 
 
