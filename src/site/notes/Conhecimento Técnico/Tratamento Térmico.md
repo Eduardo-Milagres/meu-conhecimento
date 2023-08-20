@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Conhecimento Técnico/Tratamento Térmico/"}
+{"dg-publish":true,"permalink":"/Conhecimento Técnico/Tratamento Térmico/","created":"","updated":""}
 ---
 
 
