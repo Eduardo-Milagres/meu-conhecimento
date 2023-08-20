@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Conhecimento Técnico/Soldagem (Welding)/"}
+{"dg-publish":true,"permalink":"/Conhecimento Técnico/Soldagem (Welding)/","created":"","updated":""}
 ---
 
 
