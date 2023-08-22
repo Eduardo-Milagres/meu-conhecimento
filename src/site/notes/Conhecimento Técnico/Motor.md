@@ -7,7 +7,7 @@
 ## Fluído ativo
 - Mistura ar combustível
 
-## Combustão Externa
+## [[Conhecimento Técnico/Combustão Externa\|Combustão Externa]]
 - Máquina a vapor
 - A combustão é processada externamente ao FA
 - Apenas o veículo de de energia se transforma em trabalho
