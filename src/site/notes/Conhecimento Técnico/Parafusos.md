@@ -11,7 +11,7 @@ kb constante de mola
 	Com a área (Abe - Área Resistente) relativa determina o De
 	Ao sofrer tração
 	Definido de acordo com o aperto
-	$$Kp=\frac{f}{lb}$$
+$$Kp=\frac{f}{lb}$$
 	
 	
 Prensagem elevada
@@ -45,86 +45,87 @@ Determine a bitola e a quantidade de parafusos
 ![20230505_192104.jpg](/img/user/Imagens/20230505_192104.jpg)
 
 1. Determinar a força na tampa
-	$$A=\frac{\pi*d^2}{4}$$
-	$$A=\frac{\pi*49^2}{4}$$
-	$$A=1885,74cm^2$$
-	$$P=\frac{F}{A}$$
-	$$F=P*A$$
-	$$F=20*1885,74=37.714,82Kgf$$
+$$A=\frac{\pi*d^2}{4}$$
+$$A=\frac{\pi*49^2}{4}$$
+$$A=1885,74cm^2$$
+$$P=\frac{F}{A}$$
+$$F=P*A$$
+$$F=20*1885,74=37.714,82Kgf$$
 	
  1. Fator inicial de aperto (FI)
-	$$FI=F*Fs$$
-	$$FI=37714,82*4 = 150.859,28Kgf$$
-3. Quantidade de parafusos (n)
-	$$n=\frac{\pi*d}{100}$$
-	$$n=\frac{\pi*560}{100}$$
-	$$n=\frac{1759,3}{100} = 17,6$$
+$$FI=F*Fs$$
+$$FI=37714,82*4 = 150.859,28Kgf$$
+1. Quantidade de parafusos (n)
+$$n=\frac{\pi*d}{100}$$
+$$n=\frac{\pi*560}{100}$$
+$$n=\frac{1759,3}{100} = 17,6$$
 	
-	 *Deve ser múltiplo de 4 
-   $$n=20$$
-4. Força por parafuso (FP)
-	$$FP=\frac{FI}{n}$$
-	$$FP=\frac{150.859,28}{20}=7.543Kgf$$
+ *Deve ser múltiplo de 4 
+$$n=20$$
+1. Força por parafuso (FP)
+$$FP=\frac{FI}{n}$$
+$$FP=\frac{150.859,28}{20}=7.543Kgf$$
 
 5. Pré dimensionamento do Parafuso
-	$$\sigma i\le0,75*\sigma e$$
-	$$\sigma i=0,6*\sigma e$$
-	$$\sigma i=0,6*90=54$$
+$$\sigma i\le0,75*\sigma e$$
+$$\sigma i=0,6*\sigma e$$
+$$\sigma i=0,6*90=54$$
 ---
 $$\sigma=\frac{Fe}{Abe}$$
-	$$Abe=\frac{Fe}{\sigma}$$
-	$$Abe=\frac{\sigma i}{\sigma}$$
-	$$Abe=\frac{7543}{54} = 139,7mm^2$$
+$$Abe=\frac{Fe}{\sigma}$$
+$$Abe=\frac{\sigma i}{\sigma}$$
+$$Abe=\frac{7543}{54} = 139,7mm^2$$
 ---
+
 $$d=\sqrt[2]{\frac{A*4}{\pi}}$$
-	$$d=\sqrt[2]\frac{139,64*4}{\pi} = \sqrt[2]\frac{55,86}{\pi} = \sqrt[2]{177,8} = 13,3mm$$
-	
+$$d=\sqrt[2]\frac{139,64*4}{\pi} = \sqrt[2]\frac{55,86}{\pi} = \sqrt[2]{177,8} = 13,3mm$$
+
 
 6. tabela de rosca de acordo com a área (tabela)
 	M16x2mm com área resistente 169,7mm^2 
 
 7. Constante de mola do Parafuso (Kb)
-	$$Ab=\frac{\pi*d^2}{4}$$
-	$$Ab=\frac{\pi*16^2}{4}=\frac{804,2}{4}=201,1mm^2$$
+$$Ab=\frac{\pi*d^2}{4}$$
+$$Ab=\frac{\pi*16^2}{4}=\frac{804,2}{4}=201,1mm^2$$
 ---
 $$Kb=\frac{Ab*Eb}{lb}$$
-	$$Kb=\frac{201,1*21.000}{70} = \frac{4.223.100}{70} = 60.330Kgf/mm$$
-	 
-8. Constante de mola das partes
-	$$Kp=\frac{Ap*Ep}{lp}$$
-	$$Kp = \frac{2.479,5*10.000}{70} = \frac{24.795.000}{70} = 354.214,3Kgf/mm$$
-9. Área de aperto (DE)
-	$$DE=S+\frac{l}{2}$$
-	$$DE=24+\frac{70}{2}=24+35=59mm$$
+$$Kb=\frac{201,1*21.000}{70} = \frac{4.223.100}{70} = 60.330Kgf/mm$$
+ 
+1. Constante de mola das partes
+$$Kp=\frac{Ap*Ep}{lp}$$
+$$Kp = \frac{2.479,5*10.000}{70} = \frac{24.795.000}{70} = 354.214,3Kgf/mm$$
+1. Área de aperto (DE)
+$$DE=S+\frac{l}{2}$$
+$$DE=24+\frac{70}{2}=24+35=59mm$$
 ---
 Área de aperto
-	$$D=d+1,5=16+2=18$$
-	d = Diâmetro do parafuso
-	D = Diâmetro do furo, geralmente 1mm de folga (d+dolfa), acima de 1" - 1,5mm e acima de 2" - 2mm
-	$$Área=\frac{\pi}{4}\bigg[\bigg(S+\frac{l}{2}\bigg)^2-D^2\bigg]$$
-	$$Área=\frac{\pi}{4}(DE^2-D^2)$$
-	$$Área=\frac{\pi}{4}(59^2-16^2)=\frac{\pi}{4}(3.481-256)=\frac{\pi}{4}*3.225=2.532,9mm^2$$
+$$D=d+1,5=16+2=18$$
+d = Diâmetro do parafuso
+D = Diâmetro do furo, geralmente 1mm de folga (d+dolfa), acima de 1" - 1,5mm e acima de 2" - 2mm
+$$Área=\frac{\pi}{4}\bigg[\bigg(S+\frac{l}{2}\bigg)^2-D^2\bigg]$$
+$$Área=\frac{\pi}{4}(DE^2-D^2)$$
+$$Área=\frac{\pi}{4}(59^2-16^2)=\frac{\pi}{4}(3.481-256)=\frac{\pi}{4}*3.225=2.532,9mm^2$$
 1. Força de Tração atuante no parafuso (Fb)
-	$$Fb=\frac{Kb}{Kp+Kb}*\frac{F}{n}+FI$$
-	$$Fb=\frac{60.330}{354.214,3+60.330}*\frac{3.774}{20}+7.543=\frac{60.330}{414.544}*188,7+7.543$$
-	$$Fb=0,1*188,7+7.543=18,9+7.543=7.561,9Kgf/mm$$
-11. Tensão no parafuso
-	$$\sigma b = \frac{Fb}{Abe}$$
-	$$\sigma b = \frac{7.561,9}{139,7}=54,1Kgf/mm$$
+$$Fb=\frac{Kb}{Kp+Kb}*\frac{F}{n}+FI$$
+$$Fb=\frac{60.330}{354.214,3+60.330}*\frac{3.774}{20}+7.543=\frac{60.330}{414.544}*188,7+7.543$$
+$$Fb=0,1*188,7+7.543=18,9+7.543=7.561,9Kgf/mm$$
+1. Tensão no parafuso
+$$\sigma b = \frac{Fb}{Abe}$$
+$$\sigma b = \frac{7.561,9}{139,7}=54,1Kgf/mm$$
 ---
 Errado -> Considerando Abe 
-	 $$\sigma b\le0,75*\sigma e *Abe\rightarrow 54,1\le0,75*90*139,7 \rightarrow 1.081,2 \le 9.429,8$$
+ $$\sigma b\le0,75*\sigma e *Abe\rightarrow 54,1\le0,75*90*139,7 \rightarrow 1.081,2 \le 9.429,8$$
 ---
 $$\sigma b\le0,75*\sigma e\rightarrow 54,1\le0,75*90 \rightarrow 54,1 \le 67,5$$
 1. Torque
 ---
 Errado
-	$$T=0,2*d*FI$$
-	$$T=0,2*16*150.859,28 = 482.749,7Kgf/mm$$
+$$T=0,2*d*FI$$
+$$T=0,2*16*150.859,28 = 482.749,7Kgf/mm$$
 ---
 $$T=0,2*d*FI$$
-	$$T=0,2*16*75,43 = 24Kgf/mm$$
-13. Resumo
+$$T=0,2*16*75,43 = 24Kgf/mm$$
+1. Resumo
 	Parafuso: M16x2mmx82mm
 	Quantidade: 20
 	Torque: $24Kgf/mm^2$
@@ -196,15 +197,15 @@ $$\sigma m =\frac{500}{92,7}=5,4Kgf$$
 
 Como a tenão mínima ($F_{mín}$) é 0, a variação ($\sigma v$)
 3. Qual o menor $F_i$ que impede a perda de compressão do suporte
-	$F_p=0$
-	$$F_p=F_i-\frac{Kp}{(K_p+K_b)}*F$$
-	$$F_i=\frac{K_p}{(K_p+K_b)}*F-F_p$$
-	** Verificar 
-	$$F_i=\frac{549.778}{(549.778+198.000)}*4.000-0$$
-		$$F_i=\frac{549.778}{747.778}*4.000=0,735*4.000$$
-	$$F_i=735Kgf \rightarrow F_i*4=2.940Kgf$$
-	
-4. Qual o Fs para $F_i=4.000Kgf$	
+$F_p=0$
+$$F_p=F_i-\frac{Kp}{(K_p+K_b)}*F$$
+$$F_i=\frac{K_p}{(K_p+K_b)}*F-F_p$$
+** Verificar 
+$$F_i=\frac{549.778}{(549.778+198.000)}*4.000-0$$
+	$$F_i=\frac{549.778}{747.778}*4.000=0,735*4.000$$
+$$F_i=735Kgf \rightarrow F_i*4=2.940Kgf$$
+
+1. Qual o Fs para $F_i=4.000Kgf$	
 *Verificar*
 $$F_b=F_i+\frac{Kb}{(K_b+K_p)}*F$$
 $$F_p=1.000+\frac{187.920}{(556.600+198.000)}*1.000$$
