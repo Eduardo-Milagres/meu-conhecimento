@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/Conhecimento Técnico/Reações em Cargas/","created":"","updated":""}
 ---
 
-
+# Tópicos relacionados
 [[Conhecimento Técnico/Cargas\|Cargas]]
 [[Conhecimento Técnico/Ponto de apoio\|Ponto de apoio]]
 # Reação Normal ou de apoio
