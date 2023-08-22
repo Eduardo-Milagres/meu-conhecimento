@@ -13,5 +13,5 @@
 ## Soldabilidade
 - Propriedade dos materiais se unirem após aquecimento
 
-## Fadiga
+## [[Conhecimento Técnico/Fadiga\|Fadiga]]
 - Enfraquecimento do material submetido a esforços dinâmicos por longos períodos
