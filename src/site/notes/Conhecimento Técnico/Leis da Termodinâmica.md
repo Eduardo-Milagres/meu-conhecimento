@@ -3,8 +3,6 @@
 ---
 
 
-celsopimenta@brazcubas.edu.br
-
 [[Conhecimento Técnico/Fórumlas Termodinâmica\|Fórumlas Termodinâmica]]
 
 ## 1ª lei da termodinâmica

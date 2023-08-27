@@ -36,7 +36,7 @@ Processo de remoção de material em forma de cavaco
 - Aço rápido cobalto
 - Ligas fundidas
 - Metais duros
-- Cermentos ou compósitos
+- Compósitos
 - Cerâmicas
 - Diamantes
 - Nitreto de boo cúbico (CBN)
@@ -49,7 +49,7 @@ Processo de remoção de material em forma de cavaco
 	- Desgaste da ferramenta
 	- Qualidade da peça 
 	
-## Meteriais para usinagem
+## Materiais para [[Conhecimento Técnico/Usinagem\|usinagem]]
 - ISO P - Aço
 - ISO M - Aço inoxidável
 	- Mínimo 12% de cromo

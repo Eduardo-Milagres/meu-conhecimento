@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/Conhecimento Técnico/Aços/","created":"","updated":""}
 ---
 
+
 - Aço é a denominação genérica para ligas de ferro-carbono com teores de carbono de 0,008 a 2,0%, contendo outros elementos residuais do processo de produção e podendo conter outros elementos de liga propositalmente adicionados
 - Boa resistência
 	- Tração
@@ -14,33 +15,15 @@
 Quando duas dendritas se encontram, origina-se uma superfície de contato e ao término do processo de cristalização, formam cada uma as partículas que compõem o meta
 A união das partículas formam as [[Conhecimento Técnico/Estrutura Cristalina\|estruturas cristalinas]]
 
+# Nomenclatura
+Aço 10XX: aços carbono 
+  XX: porcentagem de carbono 
+
+ABNT 10B16: aço carbono 0,16% de carbono com Boro
+Aço duplex: aço com dois materiais 
+
 # Classificações
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
-
-
-# Text Elements
-Aços ^fl9dOejU
-
-Baixa liga ^sdVyY1iz
-
-Baixo Carbono ^A1lV3MNW
-
-Médio Carbono ^k1Wi9eRZ
-
-Alto Carbono ^fwA4k2J5
-
-Alta liga ^7R3VYNjl
-
-
-
-</div></div>
-
+![Classificação das ligas de aço.png](/img/user/Imagens/Excalidraw/Classifica%C3%A7%C3%A3o%20das%20ligas%20de%20a%C3%A7o.png)
 ## Aços de baixa liga (<8% de liga)
 - Baixo Carbono (C) < 0,25
 - Médio Carbono (C) 0,25 < C < 0,6

@@ -67,11 +67,6 @@ Amostras no microscópio
   Mede absorção ou refração de radiação nos materiais 
 
 # Notas
-Aço 10XX: aços carbono 
-  XX: porcentagem de carbono 
-
-ABNT 10B16: aço carbono 0,16% de carbono com Boro
-Aço duplex: aço com dois materiais 
 
 ## Ponto eutético
 - melhor ponto para se soldar um material

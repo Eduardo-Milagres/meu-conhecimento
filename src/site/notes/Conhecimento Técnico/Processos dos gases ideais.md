@@ -3,6 +3,7 @@
 ---
 
 
+# Tópicos relacionados
 [[Conhecimento Técnico/Fórumlas Termodinâmica\|Fórmulas básicas da termodinâmica]]
 
 ## Isotérmico / Isotermo (*Boyle - Marriote*) ($T_i=T_f$)

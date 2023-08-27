@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/Conhecimento Técnico/Cargas/","created":"","updated":""}
 ---
 
-
+# Tópicos relacionados
 [[Conhecimento Técnico/Reações em Cargas\|Reações em Cargas]]
 [[Conhecimento Técnico/Ponto de apoio\|Ponto de apoio]]
 
