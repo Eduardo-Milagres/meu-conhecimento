@@ -43,7 +43,7 @@ Quando ligados:
 ### Ferro fundido branco
 - A fratura apresenta coloração clara
 - Carbono quase inteiramente ligado em $Fe_3C$ ([[Conhecimento Técnico/Estrutura Cristalina#Cementita\|cementita]])
-- Menor teor de silício (Si)
+- Menor teor de silício (Si) < 1%
 - Elevada [[dureza\|dureza]]
 - Elevada resistência ao desgaste
 - baixa [[Conhecimento Técnico/Propriedades Tecnológicas#Usinabilidade\|usinabilidade]]
@@ -93,6 +93,7 @@ Quando ligados:
 
 #### Processo de nodulização
 - Inserção de magnésio (Mg) como inibidor de grafitização
+	- Torna o grafite interno de aminar em circular - reduzindo tensões internas
 - Inicio da solidificação forma [[Conhecimento Técnico/Estrutura Cristalina#Cementita\|cementita]]
 - Após a ação do magnésio (Mg), forma-se grafita esférica
 - [[Conhecimento Técnico/Tratamento Térmico#Recozimento (Annealed)\|Recozimento]] e [[Conhecimento Técnico/Tratamento Térmico#Normalização\|normalização]] decompõe a [[Conhecimento Técnico/Estrutura Cristalina#Cementita\|cementita]] em [[Conhecimento Técnico/Estrutura Cristalina#Ferrita (Ferro $ alpha$)\|ferrita]]
