@@ -39,3 +39,6 @@ Definem o comportamento do material quando submetido a um esforço
 		 1. Deformação elástica
 		 2. Deformação plástica
 		 3. Rompimento
+
+## [[Conhecimento Técnico/Fadiga\|Fadiga]]
+- Resistência a carregamentos repetitivos 
