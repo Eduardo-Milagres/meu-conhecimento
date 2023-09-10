@@ -44,6 +44,7 @@
 1. Aquecimento
 	- Caixa de areia ou de material isolante
 	- Forno
+	- Grão mais grosso
 	- 50 °C acima da linha de [[Conhecimento Técnico/Estrutura Cristalina#Austenita (Ferro $ gamma$)\|austenitização]]
 1. Permanência em temperatura desejável
 2. Resfriamento controlado até a temperatura ambiente
@@ -70,6 +71,7 @@
 ## Normalização
 - Aquecimento até a zona [[Conhecimento Técnico/Estrutura Cristalina#Austenita (Ferro $ gamma$)\|austenítica]]
 - Resfriamento ao tempo 
+- Grão mais fino que [[Conhecimento Técnico/Tratamento Térmico#Recozimento (Annealed)\|#Recozimento (Annealed)]]
 
 # Tratamentos térmoquímicos
 - Visam endurecimento superficial
