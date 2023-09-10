@@ -5,10 +5,12 @@
 
 ## Conteúdo:
 - [[Conhecimento Técnico/Aços\|Aços]]
+- [[Conhecimento Técnico/Aços (conflict 2023-08-27-12-09-53)\|Aços (conflict 2023-08-27-12-09-53)]]
 - [[Conhecimento Técnico/Cargas\|Cargas]]
 - [[Conhecimento Técnico/Conceitos da Termodinâmica\|Conceitos da Termodinâmica]]
 - [[Conhecimento Técnico/Correias em V\|Correias em V]]
 - [[Conhecimento Técnico/Estrutura Cristalina\|Estrutura Cristalina]]
+- [[Conhecimento Técnico/Exercício - Fadiga\|Exercício - Fadiga]]
 - [[Conhecimento Técnico/Exercícios - Motores de Combustão Interna (MCI)\|Exercícios - Motores de Combustão Interna (MCI)]]
 - [[Conhecimento Técnico/Exercícios termodinâmica\|Exercícios termodinâmica]]
 - [[Conhecimento Técnico/Fadiga\|Fadiga]]
