@@ -3,7 +3,7 @@
 ---
 
 
-- Máquina que converte qualquer tipo de energia em trabalho mecânico
+- Máquina que converte qualquer tipo de energia calorifica em trabalho mecânico
 ## Fluído ativo
 - Mistura ar combustível
 
