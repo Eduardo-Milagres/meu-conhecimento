@@ -41,18 +41,18 @@ ARBL - Alta Resistência Baixa Liga
 ## Aços de alta liga (Acima de 8% de liga)
 
 ### Aços de Baixo e Médio Carbono
- - Preferencialmente sem tratamento
+ - Preferencialmente sem [[Conhecimento Técnico/Tratamento Térmico\|tratamento térmico]]
  - Tratamento a quente ou a frio (Médio Carbono)
  - Conforme o processo de fabricação pode gerar:
 	 - [[Conhecimento Técnico/Estrutura Cristalina#Ferrita (Ferro $ alpha$)\|Ferrita]] ($\alpha$)
-	 - Perlita
+	 - [[Conhecimento Técnico/Estrutura Cristalina#Perlita\|Perlita]]
 	 - [[Conhecimento Técnico/Estrutura Cristalina#Cementita\|Cementita]]
 - 1020 não tempera, pois no diagrama TTT (Curva C) mostra que o tempo na fase [[Conhecimento Técnico/Estrutura Cristalina#Austenita (Ferro $ gamma$)\|austenítica]] é muito rápida, portanto não há tempera em todo material, a curva TTT corta o eixo das ordenadas
 
 ### Aços de Alto Carbono
 - Maior resistência
 - Menor [[Main/Conhecimento Técnico/Propriedades Mecânicas#Ductilidade\|ductilidade]]
- - Geralmente são tartados térmicamente 
+ - Geralmente são [[Conhecimento Técnico/Tratamento Térmico\|tartados térmicamente]] 
  - Aço 4140 - Eixos 
 	 - resistência mecânica
 	  - residência torção 
@@ -67,7 +67,6 @@ ARBL - Alta Resistência Baixa Liga
 
 ![Diagrama de Equilíbrio Ferro-Carbono.png](/img/user/Imagens/Diagrama%20de%20Equil%C3%ADbrio%20Ferro-Carbono.png)
 [[Conhecimento Técnico/Relatórios/Aços com 0,4% de carbono\|Aços com 0,4% de carbono]]
-
 ## Tipos de Aço
 ### Aço Carbono Comum
 - Contém apenas resíduos de impurezas que não o carbono
