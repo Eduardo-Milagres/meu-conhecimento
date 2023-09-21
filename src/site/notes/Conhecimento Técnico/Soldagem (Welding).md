@@ -8,7 +8,7 @@
 - Pode haver um material aditivo que será acrescentado entre os materiais unidos
 - Método mais barato em relação ao material e método de fabricação
 - A maioria das operações são manuais
-	- Exige mão de obra especializada
+	- Exige mão de obra especializadaq
 - A solda pode alterar as propriedades do material ao redor da solda
 - Pode conter defeitos internos dificeis de identificar
 - As peças soldas devem ter um espaço mínimo entre elas para garantir a resistência
@@ -60,3 +60,5 @@
 		 - Solda por ultrassom (USW - Ultrasonic Welding)
 			 - Onda ultrassônica aplicada paralela a superfície de contado
 			 - Aquece o material  pela agitação das moléculas
+
+# Simbologia
