@@ -9,15 +9,19 @@
 - Deformáveis;
 - Boa ductilidade;
 - Alta condutividade térmica e elétrica.
-
-### Cerâmicos
+- Condutividade elétrica apenas superficial
+### [[Material Cerâmico\|Cerâmicos]]
 - Combinação de metais com ametais;
 - Alta resistência mecânica;
+- Alto ponto de fusão
+- Baixa tenacidade
 - Baixa ductilidade;
 - Alta resistência térmica e química;
 - Bom isolante térmico e elétrico;
 - Alta dureza;
 - Baixo coeficiente de exposição.
+- Estrutura amorfa
+	- Ligação iônico-covalente
 
 ### Polímeros
 - Alta resistência;
