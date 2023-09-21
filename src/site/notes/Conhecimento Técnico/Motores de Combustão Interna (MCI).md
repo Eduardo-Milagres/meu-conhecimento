@@ -153,8 +153,8 @@ $$\frac{A_c*P_m*h_2*n_{cilindros}*n_{rotação}}{4.500}$$
 
 ## Fórmula geral
 $$A_c = f*D^2$$
-$$\Betta=\frac{h_2}{D}$$
-$$h_2 = betta*D$$
+$$\beta=\frac{h_2}{D}$$
+$$h_2 = \beta*D$$
 
 $$N_{indic}=\frac{f*D^2*P_m*betta*D*n_{rotação}*N_c}{60*75*x}=\frac{f*D^3*P_m*Betta*n_{rotação}*n_c}{4.500*x}$$
 
@@ -189,7 +189,7 @@ $$C_m=3,5 \, a \, 4 ms$$
 - Caminhões
 12 ms
 
-#### Valores de Betta
+#### Valores de $\beta$
 a. Máquinasa vapor 
 	1,8 a 2 (horizontais)
 	1 a 1,5 (verticais)
@@ -227,14 +227,14 @@ $TC$ = Taxa de compressão ()
 ## Cilindrada unitária ($V_u$)
 - Volume  entre o [[Conhecimento Técnico/Motores de Combustão Interna (MCI)#Ponto morto superior (pms)\|ponto morto superior (pms)]] e o [[Conhecimento Técnico/Motores de Combustão Interna (MCI)#Ponto morto inferior (pmi)\|ponto morto inferior (pmi)]] 
 
-$$V_u=A_{pistão} * h_2 = \frac{\pi*D^2}{4}*h_2$$
+$$V_u=A_{pistão} * h_2 = \frac{\pi*D^2}{4}*h_2=f*D^2*h_2$$
 
 $V_u$ = Cilindrada ($cm^3$)
 $A_{pistão}$ = Área da cabeça do pistão ($cm^2$)
 $h_2$ = [[Conhecimento Técnico/Motores de Combustão Interna (MCI)#Curso ($h_2$)\|Curso]] do pistão
 
 ## Volume total do cilindro ($V_C$)
-$$V_c = V_u + V_{cam}$$
+$$V_c = V_u + V_{cam}=\frac{V_{cam}}{TC-1}$$
 
 $V_c$ = Volume total do cilindro ($cm^3$)
 $V_u$ = [[Conhecimento Técnico/Motores de Combustão Interna (MCI)#Cilindrada unitária($V_u$)\|cilindrada unitária]] ($cm^3$)
@@ -334,9 +334,10 @@ $n_m$ = 0,82 -> motores 2 tempos ou *segundo Schuultz*
 	 0,70 a 0,80
 
  c. Rendimento econômico
-	 $$n_{econ}=n_{ind}*n_g*n_{mec}$$
+	 $$n_{econ}=n_{ind}*n_g*n_{mec}=\frac{632,3}{B2*PCs}$$
 	 B2 = Consumo de cobustível por cada Cv efetivo horas, disponível no eixo do motor
 
+$$B2=\frac{m_{combustível}}{N_{efetiva}}$$
 $$\Delta_{e \, mec. \, eixo \, motor}=\Sigma Q_{consumidos}$$
 
  d. Rendimento volumétrico
@@ -344,3 +345,13 @@ $$\Delta_{e \, mec. \, eixo \, motor}=\Sigma Q_{consumidos}$$
 
  e. Pressão média em função de PCs
  $$P_m = PCs*427*n_{vol}*n_{mec}$$
+## Volume da Câmara de compressão
+Pa -> Pressão do fluído no início da compressão ou pressão de aspiração
+Pc -> Pressão de compressão
+
+$$Pa=V_t^k=P_c*V_c^r=V_t^n=P_c*V_c^n$$
+$n$ -> 1,25 a 1,42
+
+$$P_c=P_a*TC^n$$
+$$V_c=\frac{V_s}{TC-1}$$
+$$V_s=f*D^2*h_2$$
