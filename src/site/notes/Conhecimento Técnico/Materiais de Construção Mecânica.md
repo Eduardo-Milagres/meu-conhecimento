@@ -10,7 +10,7 @@
 - Boa ductilidade;
 - Alta condutividade térmica e elétrica.
 - Condutividade elétrica apenas superficial
-### [[Material Cerâmico\|Cerâmicos]]
+### [[Conhecimento Técnico/Material Cerâmico\|Cerâmicos]]
 - Combinação de metais com ametais;
 - Alta resistência mecânica;
 - Alto ponto de fusão
