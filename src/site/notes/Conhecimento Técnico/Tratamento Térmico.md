@@ -103,10 +103,10 @@
 	- Gasosa
 	- Vácuo
 	- Plama ou Iônica
-- Aço carbono
-- Aço baixa liga
+- [[Conhecimento Técnico/Aços\|Aço carbono]]
+- [[Conhecimento Técnico/Aços#Aços de baixa liga (<8% de liga)\|Aço baixa liga]]
 - Aço média liga
-- Faz-se a Têmpera após a cementação
+- Faz-se a [[Conhecimento Técnico/Tratamento Térmico#Têmpera (Quenched)\|Têmpera]] após a cementação
 
 # Nitretação
 - Nitrogênio
@@ -121,8 +121,8 @@
 - Alta resistência ao desgaste
 - Melhora resistência a fadiga e corrosão
 - Elementos de alta resistência mecânica e a abrasão 
-- Aços de baixa liga com alumínio
-- Aços de médio carbono ao cromo (41xx, 43xx, 51xx, 61xx, 56xx, 87xx e 98xx)
+- [[Conhecimento Técnico/Aços#Aços de baixa liga (<8% de liga)\|Aços de baixa liga]] com alumínio
+- [[Conhecimento Técnico/Aços#Aços de Baixo e Médio Carbono\|Aços de médio carbono]] ao cromo (41xx, 43xx, 51xx, 61xx, 56xx, 87xx e 98xx)
 - Aço ferramenta com 5% de cromo
 - Aços com alumínio e cromo
 - Aço inoxidável ferrítico, martensítico e nitrônico
@@ -143,11 +143,12 @@
 
 ## Notas
  - Aços Austeníticos não sofrem tratamento térmico
- - Aços Martensíticos podem ser tratados térmicamente
+ - Aços Martensíticos podem ser tratados termicamente
+	 - Magnéticos
  - Aços de alta liga geralmente são temperados em óleo
  - Aço eutetóide - 0,8% de carbono
  - Aços com mais liga são mais temperáveis pois a curva C do gráfico TTT é deslocada para maiores tempos
- - O carbono é o mior responsável pela dureza do material
+ - O carbono é o maior responsável pela dureza do material
  
 #### Endurecimento
   - Habilidade de aumentar a dureza
@@ -194,7 +195,4 @@ Tensão verdadeira considera a diminuição da seção do material
 ZTA: Zona Termicamente Afetada 
 
 Atmosfera controlada: controla a carbonatação do aço, minimizando o nível de oxidação
-
-
-
 
