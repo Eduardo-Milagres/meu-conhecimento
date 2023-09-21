@@ -5,7 +5,6 @@
 
 ## Conteúdo:
 - [[Conhecimento Técnico/Aços\|Aços]]
-- [[Conhecimento Técnico/Aços (conflict 2023-08-27-12-09-53)\|Aços (conflict 2023-08-27-12-09-53)]]
 - [[Conhecimento Técnico/Cargas\|Cargas]]
 - [[Conhecimento Técnico/Conceitos da Termodinâmica\|Conceitos da Termodinâmica]]
 - [[Conhecimento Técnico/Correias em V\|Correias em V]]
