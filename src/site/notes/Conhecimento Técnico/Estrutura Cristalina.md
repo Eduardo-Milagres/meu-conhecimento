@@ -25,6 +25,9 @@
 - Mistura eutetóide
 - Forma laminar
 
+## Amorfo
+- Estrutura irregular
+- Geralmente quando há mistura de elementos
 ## Célula Unitária
 - Cúbica de Corpo Centrado (CCC)
 - Cúbica de Face Centrada (CFC)
