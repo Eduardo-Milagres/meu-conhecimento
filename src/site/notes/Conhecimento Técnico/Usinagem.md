@@ -31,7 +31,7 @@ Processo de remoção de material em forma de cavaco
 - Estabilidade química
 
 ### Materiais para ferramentas
-- Aço carbono
+- [[Conhecimento Técnico/Aços#Aço Carbono Comum\|Aço carbono]]
 - Aço rápido comum
 - Aço rápido cobalto
 - Ligas fundidas
@@ -39,7 +39,7 @@ Processo de remoção de material em forma de cavaco
 - Compósitos
 - Cerâmicas
 - Diamantes
-- Nitreto de boo cúbico (CBN)
+- Nitreto de boro cúbico (CBN)
 
 ### Geometria da ferramenta
 - Influência
