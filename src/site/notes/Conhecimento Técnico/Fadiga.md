@@ -89,8 +89,9 @@ $$\frac{S_a}{S_f}+\frac{S_m}{\sigma_{rup}}=1$$
 $$n=\frac{S_a}{\sigma_a}=\frac{S_m}{\sigma_m}$$
 $$FS = \frac{\sigma_a}{S_f}+\frac{\sigma_m}{\sigma_{rup}}=\frac{1}{n}$$
 
-## Tensão de flexão
+## Tensão de flexão ($\sigma_f$)
 $$I=\frac{(w-d)*h^3}{12}$$
-$$\sigma_f = \frac{b*h^2}{6}=\frac{M*c}{I}$$
+$$\sigma_f = \frac{b*h^2}{6}=\frac{M_f*c}{I}$$
 $w$ = Largura
 c = linha neutra
+d = diâmetro do furo
