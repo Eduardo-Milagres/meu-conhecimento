@@ -20,7 +20,7 @@
 $$S_f = K_a * K_b * K_c * K_d * K_e * s_f'$$
 
 $S_f$ = Limite de resistência a fadiga
-$K_a$ = 
+$K_a$ = Fator de acabamento superficial
 $K_d$ = Fator devido à temperatura
 $K_e$ = Fatores diversos 
 
