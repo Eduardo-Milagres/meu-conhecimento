@@ -152,7 +152,7 @@ $$n=\frac{1}{0,0061}=163,9$$
 $S_f = K_a * K_b * K_c * K_d * K_e * s_f'$
 
 $S_f$ = Limite de resistência a fadiga
-$K_a$ = 
+$K_a$ = Fator de acabamento superficial
 $K_d$ = Fator devido à temperatura
 $K_e$ = Fatores diversos 
 
@@ -255,7 +255,7 @@ $$\sigma_a = \frac{4,9-2,4}{2}=1,25MPa$$
 $$n=\frac{1,25}{70,74}+\frac{3,65}{1.400}=2,79$$
 ## FS contra escoamento
 $$n=\frac{\sigma_{rup}}{\sigma_{máx}}$$
-$$n=\frac{1.400}{}$$
+$$n=\frac{950}{2,4}=583$$
 
 Reações em carga, tipos de reação
 Carga centrada
@@ -302,7 +302,7 @@ $M_f$ = Momento fletor (Nm)
 $S_f = K_a * K_b * K_c * K_d * K_e * s_f'$
 
 $S_f$ = Limite de resistência a fadiga
-$K_a$ = 
+$K_a$ = Fator de acabamento superficial
 $K_d$ = Fator devido à temperatura
 $K_e$ = Fatores diversos 
 
@@ -393,3 +393,93 @@ $$\sigma_a=\frac{\sigma_{máx}-\sigma_{mín}}{2}=\frac{2,28*10^8-1,98*10^8}{2}=1
 $$\frac{1}{n}=\frac{\sigma_a}{S_f}+\frac{\sigma_m}{\sigma_{rup}}$$
 $$\frac{1}{n}=\frac{14,7MPa*10^7}{70,74MPa}+\frac{213,3MPa*10^7}{1.400MPa}=0,36$$
 $$n=\frac{1}{0,36}=2,77$$
+
+---
+$$n=\frac{\sigma_{rup}}{\sigma_{máx}}$$
+$$n=\frac{950*10^6Pa}{2,28*10^8Pa}=4,16MPa$$
+
+# Exercício 2
+Um amola é submetida a uma carga variável, sendo a carga máxima $F=133N$ e a carga mínima $F=66N$. O material da mola é aço $\sigma_{rup}=1.170MPa$ e o diâmetro $d=9,5mm$.
+Nesse projeto não foi considerado a concentração de tensão ao longo do comprimento da mola. O acabamento superficial corresponde a um laminado a quente. Qual o número de aplicações de carga N, que causará falha na peça
+
+![[fadiga_exercicio_2.excalidraw\|fadiga_exercicio_2.excalidraw]]
+
+>[!info] Dados
+>Mola de aço
+>$F_{máx} = 133 N$
+>$F_{mín}=66N$
+>$\sigma_{rup}=1.170MPa$
+>$d=9,5 mm$
+
+## Formulário
+$$\sigma=\frac{\sigma_a}{1-\frac{\sigma_m}{\sigma_{rup}}}=a*n^b$$
+$$a=\frac{(0,9*\sigma_{rup})^2}{\sigma_f}$$
+$$b=-\frac{1}{3}*log\frac{0,9*\sigma_{rup}}{\sigma_f}$$
+$$n=\bigg(\frac{\sigma_f}{a}\bigg)^{\frac{1}{b}}$$
+
+## Resolução
+
+$$M_{f \, máx}=F_{máx}*w$$
+$$M_{f \, máx}=133N*410mm=133N*0,41m$$
+$$M_{f \, máx}=54,53Nm$$
+
+$$M_{f \, mín}=F_{mín}*w$$
+$$M_{f \, mín}=66N*41mm=66N*0,41m$$
+$$M_{f \, mín}=27,06Nm$$
+---
+$$S=\frac{\pi*d^4}{4}=\frac{\pi*0,0095^4}{4}=\frac{0,0298}{4}=0,0075m^2$$
+
+$$\sigma_{máx}=\frac{M_{f \, máx}}{S}=\frac{54,53Nm}{0,0075m}=7.308,39N$$
+$$\sigma_{mín}=\frac{M_{f \, mín}}{S}=\frac{27,06Nm}{0,0075m}=3.608N$$
+
+---
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/conhecimento-tecnico/fadiga/#fatores-modificadores" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+## Fatores Modificadores
+$S_f = K_a * K_b * K_c * K_d * K_e * s_f'$
+
+$S_f$ = Limite de resistência a fadiga
+$K_a$ = Fator de acabamento superficial
+$K_d$ = Fator devido à temperatura
+$K_e$ = Fatores diversos 
+
+
+</div></div>
+
+
+a -> $57,7MPa$
+b -> $-0,718$
+
+$$K_a=a*\sigma_{rup}^b$$
+$$K_a=57,7MPa*1.170MPa^{-0,718}=0,36MPa$$
+
+$$K_b=1,24*d=1,24*0,0095=0,0118$$
+
+$$S_f = K_a * K_b * K_c * K_d * K_e * s_f'$$
+$$S_f = 0,36 * 0,0118* 1 * 1 * 1 * (0,504*1.170)$$
+$$S_f=2,5MPa$$
+---
+
+$$a=\frac{(0,9*\sigma_{rup})^2}{S_f}=\frac{(0,9*1.170)^2}{2.016,7}=\frac{1.108.809}{2.016,7}=549,81MPa$$
+
+$$b=-\frac{1}{3}*log\frac{0,9*\sigma_{rup}}{\sigma_f}$$
+$$b=-\frac{1}{3}*log\frac{0,9*1.170}{2.016,7}=-\frac{1}{3}*log\frac{1.053}{2.016,7}=-\frac{1}{3}*log \, 0,5221$$
+$$b=-\frac{1}{3}*(-0,2822)=0,094$$
+
+---
+$$N=\bigg(\frac{S
+_f}{a}\bigg)^{\frac{1}{b}}$$
+$$N=\bigg(\frac{1.170}{549,81}\bigg)^{\frac{1}{0,094}}=2,12^{\frac{1}{0,094}}=3.083,75$$
+
+---
+$$\sigma_f=\frac{M_f}{W}=\frac{M_f}{\frac{I}{y}}=\frac{M_f}{\frac{\pi*d^3}{32}}=\frac{32*M_f}{\pi*d^3}$$
+$$\sigma_{f \, máx}=\frac{32*54,53Nm}{\pi*0,0095^3m}=\frac{1.744,96Nm}{\pi*8,574*10^{-7}m}=\frac{1.744,96Nm}{2,694*10^{-6}m}$$
+$$\sigma_{f \, máx}=6,478*10^8N$$
+
+$$\sigma_{f \, mín}=\frac{32*27,06Nm}{\pi*0,0095^3m}=\frac{865,92Nm}{\pi*8,574*10^{-7}m}=\frac{865,92Nm}{2,694*10^{-6}m}$$
+$$\sigma_{f \, mín}=3,215*10^8N$$
+
