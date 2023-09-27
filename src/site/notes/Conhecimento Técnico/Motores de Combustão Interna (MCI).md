@@ -336,6 +336,7 @@ $n_m$ = 0,82 -> motores 2 tempos ou *segundo Schuultz*
  c. Rendimento econômico
 	 $$n_{econ}=n_{ind}*n_g*n_{mec}=\frac{632,3}{B2*PCs}$$
 	 B2 = Consumo de cobustível por cada Cv efetivo horas, disponível no eixo do motor
+	 PCs = Poder calorífico superior
 
 $$B2=\frac{m_{combustível}}{N_{efetiva}}$$
 $$\Delta_{e \, mec. \, eixo \, motor}=\Sigma Q_{consumidos}$$
