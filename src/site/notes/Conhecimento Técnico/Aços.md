@@ -52,7 +52,7 @@ ARBL - Alta Resistência Baixa Liga
 ### Aços de Alto Carbono
 - Maior resistência
 - Menor [[Main/Conhecimento Técnico/Propriedades Mecânicas#Ductilidade\|ductilidade]]
- - Geralmente são [[Conhecimento Técnico/Tratamento Térmico\|tartados térmicamente]] 
+ - Geralmente são [[Conhecimento Técnico/Tratamento Térmico\|tratados térmicamente]] 
  - Aço 4140 - Eixos 
 	 - resistência mecânica
 	  - residência torção 
