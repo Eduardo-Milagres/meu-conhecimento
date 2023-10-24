@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Conhecimento Técnico/Home/","hide":true,"hideInGraph":true,"tags":["home","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"dgShowBacklinks":false,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/Conhecimento Técnico/Home/","hide":true,"hideInGraph":true,"tags":["home","gardenEntry","gardenEntry","gardenEntry"],"dgShowBacklinks":false,"created":"","updated":""}
 ---
 
 
@@ -15,8 +15,10 @@
 - [[Conhecimento Técnico/Fadiga\|Fadiga]]
 - [[Conhecimento Técnico/Ferro Fundido\|Ferro Fundido]]
 - [[Conhecimento Técnico/Fórumlas Termodinâmica\|Fórumlas Termodinâmica]]
+- [[Conhecimento Técnico/Programação/Latex\|Latex]]
 - [[Conhecimento Técnico/Leis da Termodinâmica\|Leis da Termodinâmica]]
 - [[Conhecimento Técnico/Materiais de Construção Mecânica\|Materiais de Construção Mecânica]]
+- [[Conhecimento Técnico/Materiais Isolantes\|Materiais Isolantes]]
 - [[Conhecimento Técnico/Motor\|Motor]]
 - [[Conhecimento Técnico/Motores de Combustão Interna (MCI)\|Motores de Combustão Interna (MCI)]]
 - [[Conhecimento Técnico/Parafusos\|Parafusos]]
