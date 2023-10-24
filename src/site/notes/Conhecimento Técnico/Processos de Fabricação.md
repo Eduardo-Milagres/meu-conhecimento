@@ -21,9 +21,9 @@ Aplicadas em chapas, fitas, tiras, bobinas
 Usinagem, furacão, retificação
 
 ### [[Conhecimento Técnico/Usinagem\|Usinagem]]
-	[[Conhecimento Técnico/Usinagem#Convencional\|Convencional]]
-	[[Conhecimento Técnico/Usinagem#Não Convencional\|Não Convencional]]
-	[[Conhecimento Técnico/Usinagem#CNC\|CNC]]
+- [[Conhecimento Técnico/Usinagem#Convencional\|Convencional]]
+- [[Conhecimento Técnico/Usinagem#Não Convencional\|Não Convencional]]
+- [[Conhecimento Técnico/Usinagem#CNC\|CNC]]
 
 
 ## [[Conhecimento Técnico/Tratamento Térmico\|Tratamento Térmico]]
