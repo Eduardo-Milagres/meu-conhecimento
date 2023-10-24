@@ -324,3 +324,33 @@ $$T_v = \frac{V_1}{V_2}=\sqrt[K-1]{\frac{T_2}{T_1}}=\bigg(\frac{T_2}{T_1} \bigg)
 >Potência = 30 cv
 >rotação = 400 rpm
 
+# Exercício 13
+Determine as dimensões das válvulas de um motor diesel
+
+>[!info] Dados
+>Diâmetro do cilindro = $210 mm$
+>Curso ($h2$) = $160 mm$
+>rpm do eixo = 1.560 rpm
+
+>[!question] Calcule:
+>Área do cilindro = $\talXII$
+>Velocidade média do cilindro
+>Diâmetro interno
+>Seção de passagem
+>Altura do levantamento normal
+>Diâmetro da haste
+>Diâmetro da haste
+
+## Área do cilindro ($A_c$)
+$$A_c = \frac{\pi}{4}*d^2$$
+$$A_c = \frac{\pi}{4}*210^2$$
+$$A_c = 34.636 \, mm^2 \rightarrow 0
+0346 \, m$$
+
+## Diâmetro interno ($dm$)
+$$dm = 0,4 * d$$
+$$dm = 0,4 * 0,21$$
+$$dm = 0,084 \, m$$
+
+## Seção de passagem ($A_e$)
+
