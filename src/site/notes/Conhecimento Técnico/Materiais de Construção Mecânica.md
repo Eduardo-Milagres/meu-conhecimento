@@ -33,7 +33,13 @@
 
  - PRFV: Polímero Reforçado por Fibra de Vidro
  - PRFC: Polímero Reforçado por Fibra de Carbono
-
+#### Termoplástico
+ - Ao submetido a uma força e pressçao amolece e flui
+ - Após aquecido pode ser reprocessado
+ 
+#### Temorrígido
+-  Ao submetido a uma força e pressçao amolece e flui
+- Após deformado não pode ser reutilizado
 ### Compósitos
 - Mistura de dois ou mais materiais;
 - Ligados apenas fisicamente
