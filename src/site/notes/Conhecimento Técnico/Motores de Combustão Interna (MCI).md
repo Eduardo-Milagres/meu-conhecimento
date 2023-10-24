@@ -237,16 +237,16 @@ $h_2$ = [[Conhecimento Técnico/Motores de Combustão Interna (MCI)#Curso ($h_2$
 $$V_c = V_u + V_{cam}=\frac{V_{cam}}{TC-1}$$
 
 $V_c$ = Volume total do cilindro ($cm^3$)
-$V_u$ = [[Conhecimento Técnico/Motores de Combustão Interna (MCI)#Cilindrada unitária($V_u$)\|cilindrada unitária]] ($cm^3$)
+$V_u$ = [[Conhecimento Técnico/Motores de Combustão Interna (MCI)#Cilindrada unitária($V_u$)\|Cilindrada unitária]] ($cm^3$)
 $V_{cam}$ = Volume da [[Conhecimento Técnico/Motores de Combustão Interna (MCI)#Câmara de combustão ou Volume morto ($V_{cam}$)\|câmara de combustão]]
 
 ## Taxa de Compressão ($TC$ ou $\epsilon$)
 - Relação entre o [[Conhecimento Técnico/Motores de Combustão Interna (MCI)#Câmara de combustão ou Volume morto ($v$)\|volume da câmara de combustão]] e o [[Conhecimento Técnico/Motores de Combustão Interna (MCI)#Volume total do cilindro ($V_C$)\|volume total do cilindro]] 
 - Indicada por uma razão por unidade 6:1, 8:1...
 	- A mistura aspirada é comprimida em 6:1, 8:1... do seu volume
-$$TC = \frac{V + V_{cam}}{V_{cam}} = \frac{V_{cam}}{V_c}$$
+$$TC = \frac{V_u + V_{cam}}{V_{cam}} = \frac{V_{cam}}{V_c}$$
 $TC$ = Taxa de compressão (adimensional)
-$V$ = Cilindrada do Motor ($cm^3$)
+$V_u$ = [[Conhecimento Técnico/Motores de Combustão Interna (MCI)#Cilindrada unitária($V_u$)\|Cilindrada unitária]] ($cm^3$)
 $v$ = Volume da Câmara de Combustão ($cm^3$)
 
 ## Cilindrada do motor ($V_m$)
@@ -282,7 +282,7 @@ $$n_t=\frac{\Sigma Q_{ciclo}}{\Sigma Q_{consumidos}}=\frac
 {\Sigma N_{ciclo}}{\Sigma Q_{consumidos}}$$
 
 ## Rendimento térmico indicado ($n_{ind}$)
-- [[Conhecimento Técnico/Leis da Termodinâmica copy#2ª Lei da Termodinâmica ($t_0 ne t_1$)\|2 lei da termodinâmica]]
+- [[Leis da Termodinâmica copy#2ª Lei da Termodinâmica ($t_0 ne t_1$)\|2 lei da termodinâmica]]
 - O calor utilizado segundo o ciclo ideal não se transforma em trabalho
 - Se no aparelho indicador determinamos o trabalho representado em um diagrama real encontra-se:
 
