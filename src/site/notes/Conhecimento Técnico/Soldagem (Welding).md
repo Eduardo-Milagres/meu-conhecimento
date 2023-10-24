@@ -4,13 +4,13 @@
 
 
 - União permanente
-- União de peças usando [[Conhecimento Técnico/Conceitos da Termodinâmica (conflict 2023-08-15-18-59-51)#Calor\|calor]] e/ou [[Conhecimento Técnico/Conceitos da Termodinâmica#Pressão ($P$)\|pressão]]
+- União de peças usando [[Conhecimento Técnico/Conceitos da Termodinâmica#Calor\|calor]] e/ou [[Conhecimento Técnico/Conceitos da Termodinâmica#Pressão ($P$)\|pressão]]
 - Pode haver um material aditivo que será acrescentado entre os materiais unidos
 - Método mais barato em relação ao material e método de fabricação
 - A maioria das operações são manuais
 	- Exige mão de obra especializada
 - A solda pode alterar as propriedades do material ao redor da solda
-- Pode conter defeitos internos dificeis de identificar
+- Pode conter defeitos internos difíceis de identificar
 - As peças soldas devem ter um espaço mínimo entre elas para garantir a resistência
 - Padronizados pela AWS (American Welding Society)
 
@@ -45,7 +45,7 @@
 		 - Pode haver aplicação de [[Conhecimento Técnico/Conceitos da Termodinâmica#Pressão ($P$)\|pressão]]
 		 - Utiliza o metal de adição
 	 - Solda por resistência (RW - Resistance Welding)
-		 - Usa [[Conhecimento Técnico/Conceitos da Termodinâmica (conflict 2023-08-15-18-59-51)#Calor\|calor]] gerado pela resistência elétrica com a aplicação de uma [[Conhecimento Técnico/Conceitos da Termodinâmica#Pressão ($P$)\|pressão]]
+		 - Usa [[Conhecimento Técnico/Conceitos da Termodinâmica#Calor\|calor]] gerado pela resistência elétrica com a aplicação de uma [[Conhecimento Técnico/Conceitos da Termodinâmica#Pressão ($P$)\|pressão]]
 		 - Solda ponto
 	 - Solda oxigás (OFW - Oxiful Gás Welding)
 		 - Usa-se um gás combustível
@@ -78,11 +78,16 @@
 - Automática ou semiautomática
 
 ### GMAW (Gas Metal Arc Welding)
-- Solda à arco elétrico com proteção
-- No caso de solda ao ar livre é necessária proteção contra o vento. Usa-se o CO2
+- Solda à arco elétrico com proteção gassosa
+- No caso de solda ao ar livre é necessária proteção contra o vento. Usa-se o CO2 e argônio e/ou hélio
 - Mig
 - Mag
-- Tig
+- TIG com tungstênio 
+
+- Gases inertes usados para alumínio e aços inoxidáveis
+- CO2 usado em peças de aço
+- A utilização de gases evita a deposição de escória na superfície da solda
+- Ideal para soldas com mais de um passe
 
 ### FCAW (Flux Cored Arc Welding)
 - Solda à arco elétrico com fluxo no núcleo
