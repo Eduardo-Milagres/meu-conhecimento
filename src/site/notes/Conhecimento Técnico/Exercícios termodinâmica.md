@@ -5,7 +5,7 @@
 
 ---
 # Páginas
-	[[Conhecimento Técnico/Leis da Termodinâmica copy\|Leis da termodinâmica]]
+	[[Leis da Termodinâmica copy\|Leis da termodinâmica]]
 	[[Conhecimento Técnico/Conceitos da Termodinâmica\|Conceitos da Termodinâmica]]
 
 ---
