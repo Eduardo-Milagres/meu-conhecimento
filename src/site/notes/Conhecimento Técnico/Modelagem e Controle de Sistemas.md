@@ -22,8 +22,9 @@
 
 ```mermaid
 %%{init: {"flowchart": {"curve": "linear"}}}%%
+ 
 flowchart LR
-	sistemas(Sistemas) --> tipos(Tipos)
+	 sistemas(Sistemas <br> de <br> controle) --> tipos(Tipos)
 		tipos --> natural(Natural)
 		tipos --> artificial(Artificial)
 		tipos --> natural_artificial(Natural e Artificial)
