@@ -5,6 +5,7 @@
 
 # Tópicos relacionados
 [[Conhecimento Técnico/Motor\|Motor]]
+[[Fór\|Fór]]
 [[Conhecimento Técnico/Exercícios - Motores de Combustão Interna (MCI)\|Exercícios - Motores de Combustão Interna (MCI)]]
 
 # Conceitos
@@ -96,27 +97,109 @@
 ## Superfície útil do êmbolo
 - Seção do cilindro diminuida pela seção da haste quando a haste se prolonga para ambos os lados do cilíndro onde atua o fluído sob pressão
 
-## Área do motor de simples efeito ($A_c$)
-$$A_c = \frac{\pi}{4}*D^2=0,7858*D^2$$
+## Curso ($h_2$)
+- Distância entre o [[Conhecimento Técnico/Motores de Combustão Interna (MCI)#Ponto morto superior (pms)\|ponto morto superior (pms)]] e o [[Conhecimento Técnico/Motores de Combustão Interna (MCI)#Ponto morto inferior (pmi)\|ponto morto inferior (pmi)]] 
+- Geralmente equivale ao diâmetro do eixo excêntrico do virabrequim.
 
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+## Curso ($h_2$)
+
+
+
+</div></div>
+
+
+## Câmara de combustão ou Volume morto ($V_{cam}$)
+- Volume do cilindro quando o pistão está no [[Conhecimento Técnico/Motores de Combustão Interna (MCI)#Ponto morto superior (pms)\|ponto morto superior (pms)]]
+-  Volume restante necessário para abertura da válvula (entre o pistão e o cilindro)
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+## Câmara de combustão ou Volume morto ($V_{cam}$)
+$V_{cam{}} = A_{pistão} * h_1 = \frac{\pi * D^2}{4} * h_1=\frac{V}{TC-1}$
+
+$V_{cam}$ = Volume da câmara de combustão ou volume morto ($cm^3$)
+$A_{pistão}$ = Área da cabeça do pistão ($cm^2$)
+$D$ = Diâmetro da cabeça do pistão ($cm$)
+$h_1$ = Altura entre o [[Conhecimento Técnico/Motores de Combustão Interna (MCI)#Ponto morto superior (pms)\|ponto morto superior (pms)]] e o cilindro ($cm$)
+$V$ = Cilindrada ($cm^3$)
+$TC$ = Taxa de compressão ()
+
+
+</div></div>
+
+
+## Cilindrada unitária ($V_u$)
+- Volume  entre o [[Conhecimento Técnico/Motores de Combustão Interna (MCI)#Ponto morto superior (pms)\|ponto morto superior (pms)]] e o [[Conhecimento Técnico/Motores de Combustão Interna (MCI)#Ponto morto inferior (pmi)\|ponto morto inferior (pmi)]] 
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+## Cilindrada unitária ($V_u$)
+
+$V_u=A_{pistão} * h_2 = \frac{\pi*D^2}{4}*h_2=f*D^2*h_2$
+
+$V_u$ = [[Conhecimento Técnico/Fórmulas Motores de Combustão Interna#Cilindrada unitária ($V_u$)\|Cilindrada unitária]]($cm^3$)
+$A_{pistão}$ = Área da cabeça do pistão ($cm^2$)
+$h_2$ = [[Conhecimento Técnico/Motores de Combustão Interna (MCI)#Curso ($h_2$)\|Curso]] do pistão
+$D$ = Diâmetro do pistão
+
+</div></div>
+
+
+## Taxa de Compressão ($TC$ ou $\epsilon$)
+- Relação entre o [[Conhecimento Técnico/Motores de Combustão Interna (MCI)#Câmara de combustão ou Volume morto ($v$)\|volume da câmara de combustão]] e o [[Conhecimento Técnico/Motores de Combustão Interna (MCI)#Volume total do cilindro ($V_C$)\|volume total do cilindro]] 
+- Indicada por uma razão por unidade 6:1, 8:1...
+	- A mistura aspirada é comprimida em 6:1, 8:1... do seu volume
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+# Tópicos relacionados
+[[Conhecimento Técnico/Motor\|Motor]]
+[[Conhecimento Técnico/Motores de Combustão Interna (MCI)\|Motores de Combustão Interna (MCI)]]
+[[Conhecimento Técnico/Exercícios - Motores de Combustão Interna (MCI)\|Exercícios - Motores de Combustão Interna (MCI)]]
+
+$
+ Diâmetros
+\def\D{D = Diâmetro \, do \, cilindro \, (comprimento)}
+\def\Dp{D_p = Diâmetro \, da \, cabeça \, do \, pistão \, (coprimento)}
+%% Volumes
+\def\Vcam{V_{cam} = Volume \, da \, câmara \, de \, combustão \, ou \, volume \, morto \, (comprimento³)}
+$
+
+## Área do motor de simples efeito ($A_c$)
+$A_c = \frac{\pi}{4}*D^2=0,7858*D^2$
+$\Ac$
+$\D$
 ## Área do motor de duplo efeito ($A_{c1}$ e $A_{c2}$)
 
-$$A_{c1} = \frac{\pi}{4}*D^2$$
+$A_{c1} = \frac{\pi}{4}*D^2$
 
-$$A_{c2} = \frac{\pi}{4}*(D^2*d^2)$$
+$A_{c2} = \frac{\pi}{4}*(D^2*d^2)$
 
 ## Área do motor de duplo efeito com haste em ambos
 
-$$A_{c} = \frac{\pi}{4}*(D^2*d^2)$$
+$A_{c} = \frac{\pi}{4}*(D^2*d^2)$
 
 ## Áreas simplificadas
 
-$$A_c = \frac{\pi}{4}*D^2 = f*D^2$$
+$A_c = \frac{\pi}{4}*D^2 = f*D^2$
 $f=0,785$, motores de simples efeito
 $f=0,75$, motores de duplo efeito haste de um lado
 $f=0,69$, motores duplo efeito haste prolongada em ambos os lados
 
-$$N_{cilindrada}=\frac{A_c*P_m*C_m*n_{cilindros}}{75*x}=\frac{A_c*P_m*2*h_2*n_{rotação}*n_{cilindros}}{60*75*x}=\frac{A_c*P_m*h_2*n_{rotação}*n_{cilindros}}{2.250*x}$$
+$N_{cilindrada}=\frac{A_c*P_m*C_m*n_{cilindros}}{75*x}=\frac{A_c*P_m*2*h_2*n_{rotação}*n_{cilindros}}{60*75*x}=\frac{A_c*P_m*h_2*n_{rotação}*n_{cilindros}}{2.250*x}$
 
 ## Cilindros
 ### Máquina de vapor
@@ -124,12 +207,12 @@ $$N_{cilindrada}=\frac{A_c*P_m*C_m*n_{cilindros}}{75*x}=\frac{A_c*P_m*2*h_2*n_{r
 $x=2$
 $n_c=1$
 
-$$N_{indc}=\frac{A_c*P_m*h_2*n_{rotação}}{4.500}$$
+$N_{indc}=\frac{A_c*P_m*h_2*n_{rotação}}{4.500}$
 
 #### Monocilíndrica de duplo efeito
 $x=2$
 $n_c=1$
-$$N_{indic}=N_{indic_{lado1}}*N_{indic_{lado2}}$$
+$N_{indic}=N_{indic_{lado1}}*N_{indic_{lado2}}$
 
 #### Policilíndrica de duplo efeito
 - Potência total é a soma das potências para cada cilindro e de cada lado do êmbolo
@@ -137,42 +220,42 @@ $$N_{indic}=N_{indic_{lado1}}*N_{indic_{lado2}}$$
 # Motores de commbustão interna
 ## 4 tempo monocilíndrico, simples efeito
 $x=4$
-$$N_c=\frac{A_c*P_m*h_2*n_{rotação}}{2*60*75}$$
+$N_c=\frac{A_c*P_m*h_2*n_{rotação}}{2*60*75}$
 ## 4 tempos, duplo efeito, monocilindrico
 $x=2$
-$$\frac{A_c*P_m*h_2*n_{rotaçõa}}{4.500}$$
+$\frac{A_c*P_m*h_2*n_{rotaçõa}}{4.500}$
 ## 2 tempos, simples efeito, monocilíndrico
 $x=2$
-$$\frac{A_c*P_m*h_2*n_{rotação}}{4.500}$$
+$\frac{A_c*P_m*h_2*n_{rotação}}{4.500}$
 ## 4 tempos, simples efeito, policindrico
 $x=4$
-$$\frac{A_c*P_m*h_2*n_{cilindros}*n_{rotação}}{9.000}$$
+$\frac{A_c*P_m*h_2*n_{cilindros}*n_{rotação}}{9.000}$
 ## 4 tempos, duplo efeito, policilindrica
 $x=4$
-$$\frac{A_c*P_m*h_2*n_{cilindros}*n_{rotação}}{4.500}$$
+$\frac{A_c*P_m*h_2*n_{cilindros}*n_{rotação}}{4.500}$
 
 ## Fórmula geral
-$$A_c = f*D^2$$
-$$\beta=\frac{h_2}{D}$$
-$$h_2 = \beta*D$$
+$A_c = f*D^2$
+$\beta=\frac{h_2}{D}$
+$h_2 = \beta*D$
 
-$$N_{indic}=\frac{f*D^2*P_m*betta*D*n_{rotação}*N_c}{60*75*x}=\frac{f*D^3*P_m*Betta*n_{rotação}*n_c}{4.500*x}$$
+$N_{indic}=\frac{f*D^2*P_m*betta*D*n_{rotação}*N_c}{60*75*x}=\frac{f*D^3*P_m*Betta*n_{rotação}*n_c}{4.500*x}$
 
 ### Velocidade média do êmbolo
 #### Máquina a vapor
 1. Com escape livre
-$$C_m=4,2 \sqrt{h_2}$$
+$C_m=4,2 \sqrt{h_2}$
 2. Com condensador
-$$C_m=3 \sqrt{h_2}$$
+$C_m=3 \sqrt{h_2}$
 
 #### MCI
 - Motores fixos
 - Grandes potências
 - Lento
-$$C_m=3,5$$
+$C_m=3,5$
 ---
 - Potência média
-$$C_m=3,5 \, a \, 4 ms$$
+$C_m=3,5 \, a \, 4 ms$
 ----
 - Velozes, potência média
 4 a 5 ms
@@ -209,13 +292,10 @@ a. Máquinasa vapor
 
 
 ## Curso ($h_2$)
-- Distância entre o [[Conhecimento Técnico/Motores de Combustão Interna (MCI)#Ponto morto superior (pms)\|ponto morto superior (pms)]] e o [[Conhecimento Técnico/Motores de Combustão Interna (MCI)#Ponto morto inferior (pmi)\|ponto morto inferior (pmi)]] 
-- Geralmente equivale ao diâmetro do eixo excêntrico do virabrequim 
+
 
 ## Câmara de combustão ou Volume morto ($V_{cam}$)
-- Volume do cilindro quando o pistão está no [[Conhecimento Técnico/Motores de Combustão Interna (MCI)#Ponto morto superior (pms)\|ponto morto superior (pms)]]
--  Volume restante necessário para abertura da válvula (entre o pistão e o cilindro)
-$$V_{cam{}} = A_{pistão} * h_1 = \frac{\pi * D^2}{4} * h_1=\frac{V}{TC-1}$$
+$V_{cam{}} = A_{pistão} * h_1 = \frac{\pi * D^2}{4} * h_1=\frac{V}{TC-1}$
 
 $V_{cam}$ = Volume da câmara de combustão ou volume morto ($cm^3$)
 $A_{pistão}$ = Área da cabeça do pistão ($cm^2$)
@@ -225,46 +305,48 @@ $V$ = Cilindrada ($cm^3$)
 $TC$ = Taxa de compressão ()
 
 ## Cilindrada unitária ($V_u$)
-- Volume  entre o [[Conhecimento Técnico/Motores de Combustão Interna (MCI)#Ponto morto superior (pms)\|ponto morto superior (pms)]] e o [[Conhecimento Técnico/Motores de Combustão Interna (MCI)#Ponto morto inferior (pmi)\|ponto morto inferior (pmi)]] 
 
-$$V_u=A_{pistão} * h_2 = \frac{\pi*D^2}{4}*h_2=f*D^2*h_2$$
+$V_u=A_{pistão} * h_2 = \frac{\pi*D^2}{4}*h_2=f*D^2*h_2$
 
-$V_u$ = Cilindrada ($cm^3$)
+$V_u$ = [[Conhecimento Técnico/Fórmulas Motores de Combustão Interna#Cilindrada unitária ($V_u$)\|Cilindrada unitária]]($cm^3$)
 $A_{pistão}$ = Área da cabeça do pistão ($cm^2$)
 $h_2$ = [[Conhecimento Técnico/Motores de Combustão Interna (MCI)#Curso ($h_2$)\|Curso]] do pistão
-
+$D$ = Diâmetro do pistão
 ## Volume total do cilindro ($V_C$)
-$$V_c = V_u + V_{cam}=\frac{V_{cam}}{TC-1}$$
+$V_c = V_u + V_{cam}=\frac{V_{cam}}{TC-1}$
 
 $V_c$ = Volume total do cilindro ($cm^3$)
 $V_u$ = [[Conhecimento Técnico/Motores de Combustão Interna (MCI)#Cilindrada unitária($V_u$)\|Cilindrada unitária]] ($cm^3$)
 $V_{cam}$ = Volume da [[Conhecimento Técnico/Motores de Combustão Interna (MCI)#Câmara de combustão ou Volume morto ($V_{cam}$)\|câmara de combustão]]
+$TC$  = [[Conhecimento Técnico/Fórmulas Motores de Combustão Interna#Taxa de Compressão ($TC$ ou $ epsilon$)\|Taxa de compressão]]
 
 ## Taxa de Compressão ($TC$ ou $\epsilon$)
-- Relação entre o [[Conhecimento Técnico/Motores de Combustão Interna (MCI)#Câmara de combustão ou Volume morto ($v$)\|volume da câmara de combustão]] e o [[Conhecimento Técnico/Motores de Combustão Interna (MCI)#Volume total do cilindro ($V_C$)\|volume total do cilindro]] 
-- Indicada por uma razão por unidade 6:1, 8:1...
-	- A mistura aspirada é comprimida em 6:1, 8:1... do seu volume
-$$TC = \frac{V_u + V_{cam}}{V_{cam}} = \frac{V_{cam}}{V_c}$$
+$TC = \frac{V_u + V_{cam}}{V_{cam}} = \frac{V_{cam}}{V_c}$
 $TC$ = Taxa de compressão (adimensional)
 $V_u$ = [[Conhecimento Técnico/Motores de Combustão Interna (MCI)#Cilindrada unitária($V_u$)\|Cilindrada unitária]] ($cm^3$)
-$v$ = Volume da Câmara de Combustão ($cm^3$)
+$V_{cam}$ = [[Conhecimento Técnico/Fórmulas Motores de Combustão Interna#Volume da Câmara de compressão\|Volume da câmara de compressão]] ($cm^3$)
 
 ## Cilindrada do motor ($V_m$)
 - Produto da [[Conhecimento Técnico/Motores de Combustão Interna (MCI)#Cilindrada unitária ($V_u$)\|cilindrada unitária]] pelo número de cilindros
-$$V_m = V_u * nº \, cilindros = \frac{\pi * D^2}{4} * h_2 * nº \, cilindros$$
-$V_m$ = Cilindrada do motor
-$V_u$ = [[Conhecimento Técnico/Motores de Combustão Interna (MCI)#Cilindrada unitária ($V_u$)\|Cilindrada unitária]] 
+$V_m = V_u * nº \, cilindros = \frac{\pi * D^2}{4} * h_2 * nº \, cilindros$
+$V_m$ = Cilindrada do motor (cm³)
+$V_u$ = [[Conhecimento Técnico/Motores de Combustão Interna (MCI)#Cilindrada unitária ($V_u$)\|Cilindrada unitária]] (cm³)
+$D$ = Diâmetro do cilindro (cm)
+$h_2$ = Curso (cm)
 
 ## Número de rotações ($n_{rotalção}$)
-$$n_{rotação}=\frac{A_c*P*h_2*n_{rotação}}{30}=A_c*P_m*C_m$$
+$n_{rotação}=\frac{A_c*P*h_2*n_{rotação}}{30}=A_c*P_m*C_m$
 $n_{rotação}$ = Número de rotação em $m s$
 $P_m$ = Pressão média sobre o êmbolo ($Kgf$ $cm^2$)
-
+$h_2$ = Curso (cm)
+$n_{rotação}$ = Número de rotações (rpm)
+$A_c$ = Área do cilindro (cm²)
+$C_m$ = Velocidade média do êmbolo 
 ## Velocidade média do êmbolo ($C_m$)
-$$C_m = \frac{2*h_2*n_{rotação}}{60}=\frac{h_2*n_{rotação}}{30}$$
+$C_m = \frac{2*h_2*n_{rotação}}{60}=\frac{h_2*n_{rotação}}{30}$
 
 ## Cilindrada ($C_v$)
-$$C_v = \frac{A_c*P_m*C_m*n_{cilindros}}{45*x}$$
+$C_v = \frac{A_c*P_m*C_m*n_{cilindros}}{45*x}$
 
 $C_m$ = $ms$
 1CV = 75 Kgf ms
@@ -278,23 +360,23 @@ $x=1$, motores a combustão, duplo efeito e 2 tempos
 
 ## Rendimento térmico ou termodinâmico ou ciclo ideal ($n_f$)
 
-$$n_t=\frac{\Sigma Q_{ciclo}}{\Sigma Q_{consumidos}}=\frac
-{\Sigma N_{ciclo}}{\Sigma Q_{consumidos}}$$
+$n_t=\frac{\Sigma Q_{ciclo}}{\Sigma Q_{consumidos}}=\frac
+{\Sigma N_{ciclo}}{\Sigma Q_{consumidos}}$
 
 ## Rendimento térmico indicado ($n_{ind}$)
 - [[Leis da Termodinâmica copy#2ª Lei da Termodinâmica ($t_0 ne t_1$)\|2 lei da termodinâmica]]
 - O calor utilizado segundo o ciclo ideal não se transforma em trabalho
 - Se no aparelho indicador determinamos o trabalho representado em um diagrama real encontra-se:
 
-$$W_{ind}<W_{ideal}$$
-$$n_{ind}=\frac{W_{ind}}{\Sigma Q_{cons}}=\frac{N_{disponível \, mecânico}}{\Sigma Q_{consumidos}}=\frac{632,3}{B1*PCs}$$
+$W_{ind}<W_{ideal}$
+$n_{ind}=\frac{W_{ind}}{\Sigma Q_{cons}}=\frac{N_{disponível \, mecânico}}{\Sigma Q_{consumidos}}=\frac{632,3}{B1*PCs}$
 
 1 $Cvh$ = $m$ -> Combustível por Cv hora
 m = B1
 $PCs$ = Poder Calorífico Superior
 
-$$1 Cvh = B1 *PCs * n_{ind}$$
-$$75 \frac{Kgf}{s} * 3.600 s=B1\frac{Kg}{Cvh}*PCs\frac{Kcal}{Kg}*n_{ind}$$
+$1 Cvh = B1 *PCs * n_{ind}$
+$75 \frac{Kgf}{s} * 3.600 s=B1\frac{Kg}{Cvh}*PCs\frac{Kcal}{Kg}*n_{ind}$
 $n_{ind}$ = 0,28 -> motores a gás
 $n_{ind}$ = 0,28 -> motores de benzina
 $n_{ind}$ = 0,29 -> motores a gás alto forno
@@ -302,15 +384,15 @@ $n_{ind}$ = 0,40 -> Diesel com compressor
 $n_{ind}$ = 0,42 -> Diesel sem compressor
 
 ## Coeficiente de qualidade do motor ($n_g$)
-$$n_g = \frac{n_{ind}}{n_{ideal}}=\frac{W_{ind}}{W_{c \, ideal}}=\frac{P_{ind \, ideal}}{P_{m \, ind \, real}}$$
+$n_g = \frac{n_{ind}}{n_{ideal}}=\frac{W_{ind}}{W_{c \, ideal}}=\frac{P_{ind \, ideal}}{P_{m \, ind \, real}}$
 
 ## Rendimento mecânico ou orgânico ($n_{mec}$) 
 - Valor não constante
 - Quanto maior a carga normal, maior o rendimento mecânico
 - Menor quando trabalha sobrecarregado ou com carga menor que a nominal
 
-$$N_{mec}=\frac{n_{ef}}{N_{ind}}$$
-$$n_{atrito}=n_{efit.}-n_{ind}$$
+$N_{mec}=\frac{n_{ef}}{N_{ind}}$
+$n_{atrito}=n_{efit.}-n_{ind}$
 
 
 ### Valores experimentais
@@ -334,25 +416,35 @@ $n_m$ = 0,82 -> motores 2 tempos ou *segundo Schuultz*
 	 0,70 a 0,80
 
  c. Rendimento econômico
-	 $$n_{econ}=n_{ind}*n_g*n_{mec}=\frac{632,3}{B2*PCs}$$
+	 $n_{econ}=n_{ind}*n_g*n_{mec}=\frac{632,3}{B2*PCs}$
 	 B2 = Consumo de cobustível por cada Cv efetivo horas, disponível no eixo do motor
 	 PCs = Poder calorífico superior
 
-$$B2=\frac{m_{combustível}}{N_{efetiva}}$$
-$$\Delta_{e \, mec. \, eixo \, motor}=\Sigma Q_{consumidos}$$
+$B2=\frac{m_{combustível}}{N_{efetiva}}$
+$\Delta_{e \, mec. \, eixo \, motor}=\Sigma Q_{consumidos}$
 
  d. Rendimento volumétrico
- $$n_{vol}=\frac{V_a}{V_{h2}}$$
+ $n_{vol}=\frac{V_a}{V_{h2}}$
 
  e. Pressão média em função de PCs
- $$P_m = PCs*427*n_{vol}*n_{mec}$$
+ $P_m = PCs*427*n_{vol}*n_{mec}=\frac{2*\pi*n*N*V_d*P_a}{IME*60*10^6}=\frac{Área \, do \, diagrama}{Comprimento\, da \, base}*K_{mola}$
+ n = número de cilindros
+ N = velocidade do motor em rpm
+ $V_d$ = Volume de deslocamento do cilidro
+ $P_d$ = Pressão no diagrama indicador
+ IME = Área do diagrama indicador
+ PCs = Poder calorifico superior
 ## Volume da Câmara de compressão
 Pa -> Pressão do fluído no início da compressão ou pressão de aspiração
 Pc -> Pressão de compressão
 
-$$Pa=V_t^k=P_c*V_c^r=V_t^n=P_c*V_c^n$$
+$Pa=V_t^k=P_c*V_c^r=V_t^n=P_c*V_c^n$
 $n$ -> 1,25 a 1,42
 
-$$P_c=P_a*TC^n$$
-$$V_c=\frac{V_s}{TC-1}$$
-$$V_s=f*D^2*h_2$$
+$P_c=P_a*TC^n$
+$V_c=\frac{V_s}{TC-1}$
+$V_s=f*D^2*h_2$
+
+</div></div>
+
+
