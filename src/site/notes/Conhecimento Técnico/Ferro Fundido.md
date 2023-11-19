@@ -2,7 +2,10 @@
 {"dg-publish":true,"permalink":"/Conhecimento Técnico/Ferro Fundido/","created":"","updated":""}
 ---
 
+# Tópicos relacionados
+[[Conhecimento Técnico/Fundição\|Fundição]]
 
+# Generalidades
 - Liga de ferro-carbono-silício
 - Acima de 2% de carbono (C)
 - Quantidade de carbono (C) é superior  à que pode ser retida em solução sólida na [[Conhecimento Técnico/Estrutura Cristalina#Austenita\|austenita]], desta forma, no ferro fundido há carbono parcialmente livre.
