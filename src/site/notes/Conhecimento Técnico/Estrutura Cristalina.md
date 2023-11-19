@@ -25,9 +25,12 @@
 - Mistura eutetóide
 - Forma laminar
 
-## Amorfo
+## Amorfo ou Vítrea
 - Estrutura irregular
 - Geralmente quando há mistura de elementos
+- Arranjo desordenado e assimétrico
+- Similar ao estado líquido
+
 ## Célula Unitária
 - Cúbica de Corpo Centrado (CCC)
 - Cúbica de Face Centrada (CFC)
