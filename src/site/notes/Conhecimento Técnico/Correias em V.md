@@ -4,6 +4,10 @@
 
 Ref: https://drive.google.com/file/d/1UyW_G1IdQNc3QXvLOOvKruXeKcfT30kV/view?usp=share_link
 
+# Vantagens
+- Baixo custo
+- Se comporta como fusível mecânico (o primeiro equipamento a se romper)
+
 Dados necessários:
 	1. Tipo do motor
 	2. Potência do motor;
