@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Conhecimento Técnico/Home/","hide":true,"hideInGraph":true,"tags":["home","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"dgShowBacklinks":false,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/Conhecimento Técnico/Home/","hide":true,"hideInGraph":true,"tags":["gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"dgShowBacklinks":false,"created":"","updated":""}
 ---
 
 
@@ -8,6 +8,7 @@
 - [[Conhecimento Técnico/Cargas\|Cargas]]
 - [[Conhecimento Técnico/Conceitos da Termodinâmica\|Conceitos da Termodinâmica]]
 - [[Conhecimento Técnico/Correias em V\|Correias em V]]
+- [[Conhecimento Técnico/Engrenagens\|Engrenagens]]
 - [[Conhecimento Técnico/Estrutura Cristalina\|Estrutura Cristalina]]
 - [[Conhecimento Técnico/Exercício - Fadiga\|Exercício - Fadiga]]
 - [[Conhecimento Técnico/Exercícios - Motores de Combustão Interna (MCI)\|Exercícios - Motores de Combustão Interna (MCI)]]
@@ -15,10 +16,12 @@
 - [[Conhecimento Técnico/Fadiga\|Fadiga]]
 - [[Conhecimento Técnico/Ferro Fundido\|Ferro Fundido]]
 - [[Conhecimento Técnico/Fórumlas Termodinâmica\|Fórumlas Termodinâmica]]
+- [[Conhecimento Técnico/Fundição\|Fundição]]
 - [[Conhecimento Técnico/Programação/Latex\|Latex]]
 - [[Conhecimento Técnico/Leis da Termodinâmica\|Leis da Termodinâmica]]
 - [[Conhecimento Técnico/Materiais de Construção Mecânica\|Materiais de Construção Mecânica]]
 - [[Conhecimento Técnico/Materiais Isolantes\|Materiais Isolantes]]
+- [[Conhecimento Técnico/Modelagem e Controle de Sistemas\|Modelagem e Controle de Sistemas]]
 - [[Conhecimento Técnico/Motor\|Motor]]
 - [[Conhecimento Técnico/Motores de Combustão Interna (MCI)\|Motores de Combustão Interna (MCI)]]
 - [[Conhecimento Técnico/Parafusos\|Parafusos]]
