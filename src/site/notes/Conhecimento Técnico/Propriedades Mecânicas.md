@@ -32,6 +32,9 @@ Definem o comportamento do material quando submetido a um esforço
 
 ## Resiliência
 - Capacidade de resistir a choques e pancadas sem se deformar plásticamente
+- Para aço carbono varia entre 35 a 100 MJ/m³
+- Área da curva tensão deformação até o escoamento:
+	$$U_{r}=\int \sigma \, \epsilon dx $$
 
 ## Tenacidade 
  - Capcacidade de absorver energia até a fratura.
