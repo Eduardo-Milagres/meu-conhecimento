@@ -8,6 +8,7 @@
 - Resistentes;
 - Deformáveis;
 - Boa ductilidade;
+- Alta tenacidade
 - Alta condutividade térmica e elétrica.
 - Condutividade elétrica apenas superficial
 ### [[Conhecimento Técnico/Material Cerâmico\|Cerâmicos]]
@@ -28,7 +29,9 @@
 - Alta ductilidade;
 - Alta dureza;
 - Leve;
+- Fácil processamento;
 - Baixo isolamento térmico e elétrico;
+	- Instáveis a altas temperaturas
 - Baixo coeficiente de expansão.
 
  - PRFV: Polímero Reforçado por Fibra de Vidro
@@ -42,11 +45,24 @@
 - Após deformado não pode ser reutilizado
 ### Compósitos
 - Mistura de dois ou mais materiais;
+	- Matriz e agente de reforço
 - Ligados apenas fisicamente
 - Melhor propriedades mecânicas
 - São facilmente identificados visualmente;
 - Concreto (areia, brita e cimento)
 
+```mermaid
+flowchart LR
+estrutural(Estrutural) --> fibroso(Fibroso)
+	fibroso --> continua[Contínua]
+	fibroso --> descontinua[Descontínua]
+estrutural --> pulvurenta[Pulvorenta]
+matricial[Matricial] --> ceramica[Cerâmica]
+matricial --> polimerica[Polimérica]
+	polimerica --> termoplastica[Termoplástica]
+	polimerica --> termorigida[Termorrígida]
+matricial --> metalica[Metálica]
+```
 ### Semicondutores
 - Condutibilidade elétrica intermediária;
 - Sensível a pureza química dos elementos.
@@ -93,4 +109,20 @@ Amostras no microscópio
   - Grafite e diamante
 	  - Mesma composição (carbono)
 	  - [[Conhecimento Técnico/Estrutura Cristalina#Célula Unitária\|Células unitárias]] diferentes
-	
+
+# Seleção de materiais
+- Material
+	- Formulação 
+	- [[Conhecimento Técnico/Estrutura Cristalina\|Micro estrutura]]
+- Função
+	- Aplicaçao
+	- Meio
+	- Peso
+	- Carregamento
+	- Temperatura
+	- Custo
+	- etc
+- Design
+- Manufatura
+	- Equipamentos 
+	- Moldes
