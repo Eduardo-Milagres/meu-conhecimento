@@ -15,3 +15,9 @@
 
 ## [[Conhecimento Técnico/Fadiga\|Fadiga]]
 - Enfraquecimento do material submetido a esforços dinâmicos por longos períodos
+
+## Tribologia
+- Estudo das superfícies em movimentos relativos
+	- Desgaste
+	- Atrito
+	- Lubrificação
