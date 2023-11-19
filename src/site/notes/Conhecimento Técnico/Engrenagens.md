@@ -28,9 +28,9 @@ $Z$ = Número de dentes (quantidade)
 
 ## Diâmetro externo ($D_e$)
 $$D_{e}=M(Z+2)$$
-$D_{e}=\De$
-$M = \M$
-$Z=\Z$
+$\De$
+$\M$
+$\z$
 
 ## Diâmetro interno ($D_i$)
 $$D_{i}=M(Z-2,33)$$
@@ -168,9 +168,9 @@ $$D_{i}=3(50-2,33)=3*47,67=143cm$$
 
 ## Diâmetro externo ($D_e$)
 $D_{e}=M(Z+2)$
-$D_{e}=\De$
-$M = \M$
-$Z=\Z$
+$\De$
+$\M$
+$\z$
 
 
 </div></div>
@@ -390,9 +390,9 @@ $$D_{p}=5*17=85$$
 
 ## Diâmetro externo ($D_e$)
 $D_{e}=M(Z+2)$
-$D_{e}=\De$
-$M = \M$
-$Z=\Z$
+$\De$
+$\M$
+$\z$
 
 
 </div></div>
