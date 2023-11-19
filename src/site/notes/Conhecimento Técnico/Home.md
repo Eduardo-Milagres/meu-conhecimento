@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Conhecimento Técnico/Home/","hide":true,"hideInGraph":true,"tags":["gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"dgShowBacklinks":false,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/Conhecimento Técnico/Home/","hide":true,"hideInGraph":true,"tags":["gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"dgShowBacklinks":false,"created":"","updated":""}
 ---
 
 
