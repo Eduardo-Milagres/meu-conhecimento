@@ -66,7 +66,7 @@ ARBL - Alta Resistência Baixa Liga
 - aços com cromo tende a terem trincas como capilares na siderúrgica, causado pelo acúmulo de hidrogênio
 
 ![Diagrama de Equilíbrio Ferro-Carbono.png](/img/user/Imagens/Diagrama%20de%20Equil%C3%ADbrio%20Ferro-Carbono.png)
-[[Conhecimento Técnico/Relatórios/Aços com 0,4% de carbono\|Aços com 0,4% de carbono]]
+[[Conhecimento Técnico/Atividades/Exercício - Aços com 0,4% de carbono\|Exercício - Aços com 0,4% de carbono]]
 ## Tipos de Aço
 ### Aço Carbono Comum
 - Contém apenas resíduos de impurezas que não o carbono
