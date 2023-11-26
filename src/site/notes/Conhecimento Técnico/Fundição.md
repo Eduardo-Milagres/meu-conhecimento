@@ -140,3 +140,4 @@ Massalote: Reservatório de metal líquido que irá compensar a contração do m
 Resfriadores: Peça metáliaca que acelera a troca de calor entre o metal e o molde
 Respiro: Canal para saída de gases
 Canais de vazamento: Dutos que levam o metal fundido até a cavidade molde que irá formar a peça
+
