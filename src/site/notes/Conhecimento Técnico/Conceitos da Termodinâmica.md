@@ -60,5 +60,5 @@ Transformação (expansão) violenta de um gás em energia sem troca de calor
 - Grau de desordem de um [[Conhecimento Técnico/Conceitos da Termodinâmica#Sistema\|sistema]]
 - Quantidade de energia térmica que não é transformada em trabalho
 
-#### [[Conhecimento Técnico/Atividades/Termodinâmica - Lista 2#Conceitos da Termodinâmica Ciclo Carnot Ciclo de Carnot\|Exercício ciclo de Carnot]]
+#### [[Conhecimento Técnico/Atividades/Exercício - Termodinâmica - 2#Conceitos da Termodinâmica Ciclo Carnot Ciclo de Carnot\|Exercício ciclo de Carnot]]
 
