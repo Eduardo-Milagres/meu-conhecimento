@@ -8,7 +8,14 @@
 	- Tração
 	- Compressão
 	- flexão
+ ```mermaid
+ Leo->edu
 
+```
+
+```mermaid
+Leo(leo)->Eduardo(edu)
+```
 ## Dendrita
 - Na solidificação do aço é gerado um eixo de onde se derivam eixos secundários até que o metal se torne sólido.
 ![Esquema estrutural da dentrita.png](/img/user/Imagens/Esquema%20estrutural%20da%20dentrita.png)
