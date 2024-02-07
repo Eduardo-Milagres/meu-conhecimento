@@ -122,7 +122,7 @@
 
 
 ## Câmara de combustão ou Volume morto ($V_{cam}$)
-$V_{cam{}} = A_{pistão} * h_1 = \frac{\pi * D^2}{4} * h_1=\frac{V}{TC-1}$
+$V_{cam{}} = A_{pistão} * h_1 = \frac{\pi * D^2}{4} * h_1=\frac{V_c}{TC-1}$
 
 $V_{cam}$ = Volume da câmara de combustão ou volume morto ($cm^3$)
 $A_{pistão}$ = Área da cabeça do pistão ($cm^2$)
@@ -295,7 +295,7 @@ a. Máquinasa vapor
 
 
 ## Câmara de combustão ou Volume morto ($V_{cam}$)
-$V_{cam{}} = A_{pistão} * h_1 = \frac{\pi * D^2}{4} * h_1=\frac{V}{TC-1}$
+$V_{cam{}} = A_{pistão} * h_1 = \frac{\pi * D^2}{4} * h_1=\frac{V_c}{TC-1}$
 
 $V_{cam}$ = Volume da câmara de combustão ou volume morto ($cm^3$)
 $A_{pistão}$ = Área da cabeça do pistão ($cm^2$)
