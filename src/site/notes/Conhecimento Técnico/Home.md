@@ -3,7 +3,6 @@
 ---
 
 ## Conteúdo:
-- [[Conhecimento Técnico/A evolução da administração\|A evolução da administração]]
 - [[Conhecimento Técnico/Aços\|Aços]]
 - [[Conhecimento Técnico/Cargas\|Cargas]]
 - [[Conhecimento Técnico/Conceitos da Termodinâmica\|Conceitos da Termodinâmica]]
@@ -11,13 +10,14 @@
 - [[Conhecimento Técnico/Engrenagens\|Engrenagens]]
 - [[Conhecimento Técnico/Estrutura Cristalina\|Estrutura Cristalina]]
 - [[Conhecimento Técnico/Exercício - Fadiga\|Exercício - Fadiga]]
+- [[Conhecimento Técnico/Exercício - Metodologia de custeio - Absorção\|Exercício - Metodologia de custeio - Absorção]]
 - [[Conhecimento Técnico/Exercícios - Motores de Combustão Interna (MCI)\|Exercícios - Motores de Combustão Interna (MCI)]]
 - [[Conhecimento Técnico/Exercícios termodinâmica\|Exercícios termodinâmica]]
 - [[Conhecimento Técnico/Fadiga\|Fadiga]]
 - [[Conhecimento Técnico/Ferro Fundido\|Ferro Fundido]]
+- [[Conhecimento Técnico/Fórmulas - metodologia de custeio - absorsão\|Fórmulas - metodologia de custeio - absorsão]]
 - [[Conhecimento Técnico/Fórumlas Termodinâmica\|Fórumlas Termodinâmica]]
 - [[Conhecimento Técnico/Fundição\|Fundição]]
-- [[Conhecimento Técnico/Gestão de custos\|Gestão de custos]]
 - [[Conhecimento Técnico/Programação/Latex\|Latex]]
 - [[Conhecimento Técnico/Leis da Termodinâmica\|Leis da Termodinâmica]]
 - [[Conhecimento Técnico/Materiais de Construção Mecânica\|Materiais de Construção Mecânica]]
@@ -26,7 +26,6 @@
 - [[Conhecimento Técnico/Motor\|Motor]]
 - [[Conhecimento Técnico/Motores de Combustão Interna (MCI)\|Motores de Combustão Interna (MCI)]]
 - [[Conhecimento Técnico/Parafusos\|Parafusos]]
-- [[Conhecimento Técnico/Perfil organizacional\|Perfil organizacional]]
 - [[Conhecimento Técnico/Ponto de apoio\|Ponto de apoio]]
 - [[Conhecimento Técnico/Processos de Fabricação\|Processos de Fabricação]]
 - [[Conhecimento Técnico/Processos dos gases ideais\|Processos dos gases ideais]]
