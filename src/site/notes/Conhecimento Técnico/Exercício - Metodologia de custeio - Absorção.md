@@ -54,8 +54,7 @@ elaboração e produtos acabados, e, as demonstrações de resultados dos dois p
 
 
 
-
-
+# Glossário
 $C_{if}$ = Custo indireto de fabricação (moeda)
 $C_{mu}$ = Custo médio unitário (moeda)
 $C_{p}$ = Custo de produção (moeda)
