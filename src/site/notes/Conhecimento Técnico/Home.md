@@ -23,6 +23,7 @@
 - [[Conhecimento Técnico/Leis da Termodinâmica\|Leis da Termodinâmica]]
 - [[Conhecimento Técnico/Materiais de Construção Mecânica\|Materiais de Construção Mecânica]]
 - [[Conhecimento Técnico/Materiais Isolantes\|Materiais Isolantes]]
+- [[Conhecimento Técnico/Metodologia de custeio\|Metodologia de custeio]]
 - [[Conhecimento Técnico/Modelagem e Controle de Sistemas\|Modelagem e Controle de Sistemas]]
 - [[Conhecimento Técnico/Motor\|Motor]]
 - [[Conhecimento Técnico/Motores de Combustão Interna (MCI)\|Motores de Combustão Interna (MCI)]]
