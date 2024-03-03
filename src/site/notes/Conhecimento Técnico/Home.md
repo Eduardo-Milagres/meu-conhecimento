@@ -18,6 +18,7 @@
 - [[Conhecimento Técnico/Fórmulas - metodologia de custeio - absorsão\|Fórmulas - metodologia de custeio - absorsão]]
 - [[Conhecimento Técnico/Fórumlas Termodinâmica\|Fórumlas Termodinâmica]]
 - [[Conhecimento Técnico/Fundição\|Fundição]]
+- [[Conhecimento Técnico/Gestão de custos\|Gestão de custos]]
 - [[Conhecimento Técnico/Programação/Latex\|Latex]]
 - [[Conhecimento Técnico/Leis da Termodinâmica\|Leis da Termodinâmica]]
 - [[Conhecimento Técnico/Materiais de Construção Mecânica\|Materiais de Construção Mecânica]]
