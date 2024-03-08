@@ -3,6 +3,7 @@
 ---
 
 ## Conteúdo:
+- [[Conhecimento Técnico/A evolução da administração\|A evolução da administração]]
 - [[Conhecimento Técnico/Aços\|Aços]]
 - [[Conhecimento Técnico/Cargas\|Cargas]]
 - [[Conhecimento Técnico/Conceitos da Termodinâmica\|Conceitos da Termodinâmica]]
@@ -28,6 +29,7 @@
 - [[Conhecimento Técnico/Motor\|Motor]]
 - [[Conhecimento Técnico/Motores de Combustão Interna (MCI)\|Motores de Combustão Interna (MCI)]]
 - [[Conhecimento Técnico/Parafusos\|Parafusos]]
+- [[Conhecimento Técnico/Perfil organizacional\|Perfil organizacional]]
 - [[Conhecimento Técnico/Ponto de apoio\|Ponto de apoio]]
 - [[Conhecimento Técnico/Processos de Fabricação\|Processos de Fabricação]]
 - [[Conhecimento Técnico/Processos dos gases ideais\|Processos dos gases ideais]]
@@ -37,6 +39,7 @@
 - [[Conhecimento Técnico/Reações em Cargas\|Reações em Cargas]]
 - [[Conhecimento Técnico/Sistema de Ajuste ISO\|Sistema de Ajuste ISO]]
 - [[Conhecimento Técnico/Soldagem (Welding)\|Soldagem (Welding)]]
+- [[Conhecimento Técnico/Teorias administrativas\|Teorias administrativas]]
 - [[Conhecimento Técnico/Tolerância e Ajuste\|Tolerância e Ajuste]]
 - [[Conhecimento Técnico/Tratamento Térmico\|Tratamento Térmico]]
 - [[Conhecimento Técnico/Usinagem\|Usinagem]]
