@@ -55,8 +55,11 @@ elaboração e produtos acabados, e, as demonstrações de resultados dos dois p
 
 
 # Glossário
+$CD_{f}$ = Custos e Despesas fixas (moeda)
+$C_{f}$ = Custos fixos (moeda)
 $C_{if}$ = Custo indireto de fabricação (moeda)
 $C_{mu}$ = Custo médio unitário (moeda)
+$Co_{v}$ = Comissão sobre preço vendido (moeda)
 $C_{p}$ = Custo de produção (moeda)
 $C_{pa}$ = Custo do produto acabado (moeda)
 $C_{pd}$ = Custo do produto disponível (moeda)
@@ -65,15 +68,17 @@ $C_t$ = Custo total (moeda)
 $C_u$ = Custo unitário (moeda)
 $C_{up}$ = Custo unitário de produção (moeda)
 $C_{upv}$ = Custo unitário de produtos vendidos (moeda)
-$Co_{v}$ = Comissão sobre preço vendido (moeda)
+$C_{v}$ = Custos variáveis (moeda)
 $D_{admv}$ = Despesas administrativas e de vendas direta (moeda)
+$D_{v}$ = Despesas variáveis (moeda)
 $E_{f}$ = Estoque final (moeda)
 $E_{fe}$ = Estoque final em elaboração (Quant.)
 $E_{fa}$ = Estoque final de produtos acabados  (Quant.)
-$M_{od}$ = Mão de obra direta  (moeda)
+$M_{c}$ = Margem de contribuição (moeda)
 $M_{d}$ = Material direto  (moeda)
-$M_{i}$ = Material indireto
-$P_{e}$ = Produto em elaboração
+$M_{od}$ = Mão de obra direta  (moeda)
+$M_{i}$ = Material indireto (moeda)
+$P_{e}$ = Produto em elaboração (moeda)
 $Q_{d}$ = Quantidade disponível (Quant.)
 $Q_{e}$ = Quantidade em estoque (Quant.)
 $Q_{p}$ = Quantitate produzida (Quant.)
@@ -350,4 +355,4 @@ $$R_{l}=57.343,02$$
 # Tópicos relacionados
 [[Conhecimento Técnico/Metodologia de custeio\|Metodologia de custeio]]
 [[Conhecimento Técnico/Gestão de custos\|Gestão de custos]] 
-[[Conhecimento Técnico/Fórmulas - metodologia de custeio - absorsão\|Fórmulas - metodologia de custeio - absorsão]] 
+[[Conhecimento Técnico/Fórmulas - metodologia de custeio - absorsão\|Fórmulas - Metodologia de custeio - absorsão]] 
