@@ -146,7 +146,7 @@ $TC$ = Taxa de compressão ()
 
 $V_u=A_{pistão} * h_2 = \frac{\pi*D^2}{4}*h_2=f*D^2*h_2$
 
-$V_u$ = [[Conhecimento Técnico/Fórmulas Motores de Combustão Interna#Cilindrada unitária ($V_u$)\|Cilindrada unitária]]($cm^3$)
+$V_u$ = [[Conhecimento Técnico/Fórmulas - Motores de Combustão Interna#Cilindrada unitária ($V_u$)\|Cilindrada unitária]]($cm^3$)
 $A_{pistão}$ = Área da cabeça do pistão ($cm^2$)
 $h_2$ = [[Conhecimento Técnico/Motores de Combustão Interna (MCI)#Curso ($h_2$)\|Curso]] do pistão
 $D$ = Diâmetro do pistão
@@ -308,7 +308,7 @@ $TC$ = Taxa de compressão ()
 
 $V_u=A_{pistão} * h_2 = \frac{\pi*D^2}{4}*h_2=f*D^2*h_2$
 
-$V_u$ = [[Conhecimento Técnico/Fórmulas Motores de Combustão Interna#Cilindrada unitária ($V_u$)\|Cilindrada unitária]]($cm^3$)
+$V_u$ = [[Conhecimento Técnico/Fórmulas - Motores de Combustão Interna#Cilindrada unitária ($V_u$)\|Cilindrada unitária]]($cm^3$)
 $A_{pistão}$ = Área da cabeça do pistão ($cm^2$)
 $h_2$ = [[Conhecimento Técnico/Motores de Combustão Interna (MCI)#Curso ($h_2$)\|Curso]] do pistão
 $D$ = Diâmetro do pistão
@@ -318,13 +318,13 @@ $V_c = V_u + V_{cam}=\frac{V_{cam}}{TC-1}$
 $V_c$ = Volume total do cilindro ($cm^3$)
 $V_u$ = [[Conhecimento Técnico/Motores de Combustão Interna (MCI)#Cilindrada unitária($V_u$)\|Cilindrada unitária]] ($cm^3$)
 $V_{cam}$ = Volume da [[Conhecimento Técnico/Motores de Combustão Interna (MCI)#Câmara de combustão ou Volume morto ($V_{cam}$)\|câmara de combustão]]
-$TC$  = [[Conhecimento Técnico/Fórmulas Motores de Combustão Interna#Taxa de Compressão ($TC$ ou $ epsilon$)\|Taxa de compressão]]
+$TC$  = [[Conhecimento Técnico/Fórmulas - Motores de Combustão Interna#Taxa de Compressão ($TC$ ou $ epsilon$)\|Taxa de compressão]]
 
 ## Taxa de Compressão ($TC$ ou $\epsilon$)
 $TC = \frac{V_u + V_{cam}}{V_{cam}} = \frac{V_{cam}}{V_c}$
 $TC$ = Taxa de compressão (adimensional)
 $V_u$ = [[Conhecimento Técnico/Motores de Combustão Interna (MCI)#Cilindrada unitária($V_u$)\|Cilindrada unitária]] ($cm^3$)
-$V_{cam}$ = [[Conhecimento Técnico/Fórmulas Motores de Combustão Interna#Volume da Câmara de compressão\|Volume da câmara de compressão]] ($cm^3$)
+$V_{cam}$ = [[Conhecimento Técnico/Fórmulas - Motores de Combustão Interna#Volume da Câmara de compressão\|Volume da câmara de compressão]] ($cm^3$)
 
 ## Cilindrada do motor ($V_m$)
 - Produto da [[Conhecimento Técnico/Motores de Combustão Interna (MCI)#Cilindrada unitária ($V_u$)\|cilindrada unitária]] pelo número de cilindros
