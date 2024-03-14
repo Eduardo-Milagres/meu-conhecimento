@@ -36,8 +36,14 @@ Receita - despesa = DRE
 - Custo direto e indireto é apropriado diretamente
 - Considera produtos em estoque, vendidos e em produção
 
-- [[Conhecimento Técnico/Fórmulas - metodologia de custeio - absorsão\|Fórmulas - metodologia de custeio - absorsão]]
+- [[Conhecimento Técnico/Fórmulas - metodologia de custeio - absorsão\|Fórmulas - Metodologia de custeio - absorsão]]
 - [[Conhecimento Técnico/Exercício - Metodologia de custeio - Absorção\|Exercício - Metodologia de custeio - Absorção]]
+
+# Variável
+- Variável entra como margem de contribuição
+- Matéria prima e mão de obra = custo variável
+
+Custo fixo + despesa = custos e despesas fixos
 # Tópicos relacionados
 [[Conhecimento Técnico/Gestão de custos\|Gestão de custos]]
 [[Conhecimento Técnico/Exercício - Metodologia de custeio - Absorção\|Exercício - Metodologia de custeio - Absorção]]
