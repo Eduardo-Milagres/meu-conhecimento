@@ -3,7 +3,7 @@
 ---
 
 
-[[Conhecimento Técnico/Fórumlas Termodinâmica\|Fórumlas Termodinâmica]]
+[[Conhecimento Técnico/Fórumlas -  Termodinâmica\|Fórumlas -  Termodinâmica]]
 
 ## 1ª lei da termodinâmica
 
