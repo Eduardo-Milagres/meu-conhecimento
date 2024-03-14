@@ -374,7 +374,7 @@ $$dm = 0,084 \, m$$
 
 $V_u=A_{pistão} * h_2 = \frac{\pi*D^2}{4}*h_2=f*D^2*h_2$
 
-$V_u$ = [[Conhecimento Técnico/Fórmulas Motores de Combustão Interna#Cilindrada unitária ($V_u$)\|Cilindrada unitária]]($cm^3$)
+$V_u$ = [[Conhecimento Técnico/Fórmulas - Motores de Combustão Interna#Cilindrada unitária ($V_u$)\|Cilindrada unitária]]($cm^3$)
 $A_{pistão}$ = Área da cabeça do pistão ($cm^2$)
 $h_2$ = [[Conhecimento Técnico/Exercícios - Motores de Combustão Interna (MCI)#Curso ($h_2$)\|Curso]] do pistão
 $D$ = Diâmetro do pistão
@@ -431,7 +431,7 @@ $V_c = V_u + V_{cam}=\frac{V_{cam}}{TC-1}$
 $V_c$ = Volume total do cilindro ($cm^3$)
 $V_u$ = [[Conhecimento Técnico/Exercícios - Motores de Combustão Interna (MCI)#Cilindrada unitária($V_u$)\|Cilindrada unitária]] ($cm^3$)
 $V_{cam}$ = Volume da [[Conhecimento Técnico/Exercícios - Motores de Combustão Interna (MCI)#Câmara de combustão ou Volume morto ($V_{cam}$)\|câmara de combustão]]
-$TC$  = [[Conhecimento Técnico/Fórmulas Motores de Combustão Interna#Taxa de Compressão ($TC$ ou $ epsilon$)\|Taxa de compressão]]
+$TC$  = [[Conhecimento Técnico/Fórmulas - Motores de Combustão Interna#Taxa de Compressão ($TC$ ou $ epsilon$)\|Taxa de compressão]]
 
 
 </div></div>
@@ -502,7 +502,7 @@ $V_c = V_u + V_{cam}=\frac{V_{cam}}{TC-1}$
 $V_c$ = Volume total do cilindro ($cm^3$)
 $V_u$ = [[Conhecimento Técnico/Exercícios - Motores de Combustão Interna (MCI)#Cilindrada unitária($V_u$)\|Cilindrada unitária]] ($cm^3$)
 $V_{cam}$ = Volume da [[Conhecimento Técnico/Exercícios - Motores de Combustão Interna (MCI)#Câmara de combustão ou Volume morto ($V_{cam}$)\|câmara de combustão]]
-$TC$  = [[Conhecimento Técnico/Fórmulas Motores de Combustão Interna#Taxa de Compressão ($TC$ ou $ epsilon$)\|Taxa de compressão]]
+$TC$  = [[Conhecimento Técnico/Fórmulas - Motores de Combustão Interna#Taxa de Compressão ($TC$ ou $ epsilon$)\|Taxa de compressão]]
 
 
 </div></div>
@@ -530,7 +530,7 @@ $$V_c=52,8*7,8+470=411,84+470=881cm^3$$
 
 $V_u=A_{pistão} * h_2 = \frac{\pi*D^2}{4}*h_2=f*D^2*h_2$
 
-$V_u$ = [[Conhecimento Técnico/Fórmulas Motores de Combustão Interna#Cilindrada unitária ($V_u$)\|Cilindrada unitária]]($cm^3$)
+$V_u$ = [[Conhecimento Técnico/Fórmulas - Motores de Combustão Interna#Cilindrada unitária ($V_u$)\|Cilindrada unitária]]($cm^3$)
 $A_{pistão}$ = Área da cabeça do pistão ($cm^2$)
 $h_2$ = [[Conhecimento Técnico/Exercícios - Motores de Combustão Interna (MCI)#Curso ($h_2$)\|Curso]] do pistão
 $D$ = Diâmetro do pistão
@@ -690,7 +690,7 @@ $TC$ = Taxa de compressão ()
 
 $V_u=A_{pistão} * h_2 = \frac{\pi*D^2}{4}*h_2=f*D^2*h_2$
 
-$V_u$ = [[Conhecimento Técnico/Fórmulas Motores de Combustão Interna#Cilindrada unitária ($V_u$)\|Cilindrada unitária]]($cm^3$)
+$V_u$ = [[Conhecimento Técnico/Fórmulas - Motores de Combustão Interna#Cilindrada unitária ($V_u$)\|Cilindrada unitária]]($cm^3$)
 $A_{pistão}$ = Área da cabeça do pistão ($cm^2$)
 $h_2$ = [[Conhecimento Técnico/Exercícios - Motores de Combustão Interna (MCI)#Curso ($h_2$)\|Curso]] do pistão
 $D$ = Diâmetro do pistão
@@ -700,13 +700,13 @@ $V_c = V_u + V_{cam}=\frac{V_{cam}}{TC-1}$
 $V_c$ = Volume total do cilindro ($cm^3$)
 $V_u$ = [[Conhecimento Técnico/Exercícios - Motores de Combustão Interna (MCI)#Cilindrada unitária($V_u$)\|Cilindrada unitária]] ($cm^3$)
 $V_{cam}$ = Volume da [[Conhecimento Técnico/Exercícios - Motores de Combustão Interna (MCI)#Câmara de combustão ou Volume morto ($V_{cam}$)\|câmara de combustão]]
-$TC$  = [[Conhecimento Técnico/Fórmulas Motores de Combustão Interna#Taxa de Compressão ($TC$ ou $ epsilon$)\|Taxa de compressão]]
+$TC$  = [[Conhecimento Técnico/Fórmulas - Motores de Combustão Interna#Taxa de Compressão ($TC$ ou $ epsilon$)\|Taxa de compressão]]
 
 ## Taxa de Compressão ($TC$ ou $\epsilon$)
 $TC = \frac{V_u + V_{cam}}{V_{cam}} = \frac{V_{cam}}{V_c}$
 $TC$ = Taxa de compressão (adimensional)
 $V_u$ = [[Conhecimento Técnico/Exercícios - Motores de Combustão Interna (MCI)#Cilindrada unitária($V_u$)\|Cilindrada unitária]] ($cm^3$)
-$V_{cam}$ = [[Conhecimento Técnico/Fórmulas Motores de Combustão Interna#Volume da Câmara de compressão\|Volume da câmara de compressão]] ($cm^3$)
+$V_{cam}$ = [[Conhecimento Técnico/Fórmulas - Motores de Combustão Interna#Volume da Câmara de compressão\|Volume da câmara de compressão]] ($cm^3$)
 
 ## Cilindrada do motor ($V_m$)
 - Produto da [[Conhecimento Técnico/Exercícios - Motores de Combustão Interna (MCI)#Cilindrada unitária ($V_u$)\|cilindrada unitária]] pelo número de cilindros
@@ -843,7 +843,7 @@ $V_c = V_u + V_{cam}=\frac{V_{cam}}{TC-1}$
 $V_c$ = Volume total do cilindro ($cm^3$)
 $V_u$ = [[Conhecimento Técnico/Exercícios - Motores de Combustão Interna (MCI)#Cilindrada unitária($V_u$)\|Cilindrada unitária]] ($cm^3$)
 $V_{cam}$ = Volume da [[Conhecimento Técnico/Exercícios - Motores de Combustão Interna (MCI)#Câmara de combustão ou Volume morto ($V_{cam}$)\|câmara de combustão]]
-$TC$  = [[Conhecimento Técnico/Fórmulas Motores de Combustão Interna#Taxa de Compressão ($TC$ ou $ epsilon$)\|Taxa de compressão]]
+$TC$  = [[Conhecimento Técnico/Fórmulas - Motores de Combustão Interna#Taxa de Compressão ($TC$ ou $ epsilon$)\|Taxa de compressão]]
 
 
 </div></div>
@@ -948,7 +948,7 @@ $$P_i=\frac{2*\pi*1.500*0,67*10^6*0,13*0,008659}{60*10^6}=3,138kW$$
 
 $V_u=A_{pistão} * h_2 = \frac{\pi*D^2}{4}*h_2=f*D^2*h_2$
 
-$V_u$ = [[Conhecimento Técnico/Fórmulas Motores de Combustão Interna#Cilindrada unitária ($V_u$)\|Cilindrada unitária]]($cm^3$)
+$V_u$ = [[Conhecimento Técnico/Fórmulas - Motores de Combustão Interna#Cilindrada unitária ($V_u$)\|Cilindrada unitária]]($cm^3$)
 $A_{pistão}$ = Área da cabeça do pistão ($cm^2$)
 $h_2$ = [[Conhecimento Técnico/Exercícios - Motores de Combustão Interna (MCI)#Curso ($h_2$)\|Curso]] do pistão
 $D$ = Diâmetro do pistão
