@@ -65,6 +65,6 @@ flowchart TD
   Gerente_prod--> Engenheiro_produção
 ```
 
-![[Organograma.canvas]]
+![[Organograma.canvas\|Organograma.canvas]]
 - # Tópicos relacionados
 
